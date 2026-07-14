@@ -74,6 +74,23 @@
         ]
     },
     {
+        "url": "\/voiture-en-calabre\/",
+        "titre": "Conduire en Calabre : Tout savoir avant de louer votre voiture",
+        "type": "article",
+        "destination": "calabre",
+        "description": "Choisir son aéroport Louer une voiture en Calabre : Lamezia Terme ou Reggio Calabria ? Le choix de l&rsquo;aéroport détermine la logistique de la première journée. La région dispose de deux portes d&rsquo;entrée principales, avec des parcs automobiles très différents. Comparez d&rsquo;abord les vols vers Lamezia Terme (SUF) avec Skyscanner : c&rsquo;est presque toujours la porte d&rsquo;entrée la plus pratique pour rejoindre la côte tyrrhénienne. © GJo \/ Wikimedia Commons — CC BY-SA 3.0 L&rsquo;aéroport international de Lamezia Terme est situé au milieu de la côte ouest. Louer une voiture ici permet de filer vers Pizzo en 25 minutes ou d&rsquo;atteindre [&hellip;]",
+        "mots_cles": [
+            "calabre",
+            "conduire",
+            "tout",
+            "savoir",
+            "avant",
+            "louer",
+            "votre",
+            "voiture"
+        ]
+    },
+    {
         "url": "\/conduire-en-sicile\/",
         "titre": "Conduire en Sicile : Les règles de la conduite Sicilienne",
         "type": "article",
@@ -320,6 +337,23 @@
         ]
     },
     {
+        "url": "\/meduses-sur-la-cote-amalfitaine-et-capri\/",
+        "titre": "Méduses sur la Côte Amalfitaine et Capri : Plages à éviter et conseils",
+        "type": "article",
+        "destination": "campanie",
+        "description": "Y a t&rsquo;il des méduses sur la Côte Amalfitaine : la question revient chaque été à la mi-août, quand les galets d&rsquo;une crique brûlent sous 35°C à l&rsquo;ombre et que l&rsquo;eau de la mer Tyrrhénienne affiche 28°C. L&rsquo;entrée dans l&rsquo;eau se fait alors sans aucune transition thermique. C&rsquo;est le confort estival que l&rsquo;on vient chercher dans le sud de l&rsquo;Italie. Mais depuis une dizaine d&rsquo;années, cette hausse constante des températures modifie la donne sur le littoral de la Campanie en août. Les baigneurs croisent de plus en plus souvent des bancs de méduses denses et hautement urticants. Sauver son après-midi de [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "meduses",
+            "cote",
+            "amalfitaine",
+            "capri",
+            "plages",
+            "eviter",
+            "conseils"
+        ]
+    },
+    {
         "url": "\/monopoli-vs-polignano\/",
         "titre": "Monopoli vs Polignano a Mare : Quelle ville choisir pour se loger ?",
         "type": "article",
@@ -350,6 +384,54 @@
         ]
     },
     {
+        "url": "\/ou-manger-a-catane\/",
+        "titre": "Où manger à Catane : 8 adresses pour la Norma, le poisson et la street food",
+        "type": "article",
+        "destination": "sicile",
+        "description": "En un coup d&rsquo;œil Où manger à Catane : le récapitulatif des 8 adresses Adresse Spécialité Quartier Budget Pasticceria Savia Arancino Centre historique 2,50 à 4 € FUD Bottega Sicula Burger sicilien Umberto I 12 à 18 € Caffè Europa Granita et brioche Corso Italia 5 à 8 € Nuova Trattoria del Forestiero Pasta alla Norma Teatro Massimo 20 à 30 € Trattoria del Cavaliere Cuisine familiale, poisson et viande Piazza Stesicoro 30 à 40 € Scirocco Sicilian Fish Lab Cuoppo (friture de mer) Pescheria 7 à 12 € Canni &#038; Pisci Poisson grillé Centre historique 45 à 60 € Me [&hellip;]",
+        "mots_cles": [
+            "sicile",
+            "manger",
+            "catane",
+            "adresses",
+            "norma",
+            "poisson",
+            "street",
+            "food"
+        ]
+    },
+    {
+        "url": "\/ou-manger-a-palerme\/",
+        "titre": "Où manger à Palerme ? 5 adresses pour ne rien rater de la gastronomie sicilienne",
+        "type": "article",
+        "destination": "sicile",
+        "description": "En un coup d&rsquo;œil Où manger à Palerme : le récapitulatif des 5 adresses Adresse Spécialité Quartier Budget Sfrigola Palermo Arancina Porta Nuova 3 à 4,50 € A&rsquo;nìca Ristorante &#038; Pizza Gourmet Pizza et poisson Kalsa 35 à 50 € St&rsquo;Orto Cuisine végétarienne Kalsa 20 à 30 € Enoteca Picone Vin et planches Politeama 6 à 15 € le verre I Segreti del Chiostro Cannolo Quattro Canti 3 à 4 € Le rythme de la ville Horaires des restaurants à Palerme : comprendre les usages locaux Manger à Palerme demande un léger ajustement de vos habitudes horaires. Les restaurants ouvrent pour [&hellip;]",
+        "mots_cles": [
+            "sicile",
+            "manger",
+            "palerme",
+            "adresses",
+            "rien",
+            "rater",
+            "gastronomie",
+            "sicilienne"
+        ]
+    },
+    {
+        "url": "\/ou-se-baigner-en-calabre\/",
+        "titre": "Où se baigner en Calabre ? (Costa degli Dei)",
+        "type": "article",
+        "destination": "calabre",
+        "description": "Sur la Costa degli Dei, qui s&rsquo;étire de Pizzo au nord jusqu&rsquo;à Nicotera au sud, la topographie dicte la règle du jeu. Les falaises tapissées de maquis vert sombre plongent brutalement dans une eau bleue qui reste transparente jusqu&rsquo;à dix mètres de fond. On oublie les longues étendues de sable fin accessibles en poussette directement depuis la route. Pour se baigner en Calabre, on trouve des dénivelés, des escaliers de pierre, des galets et des parkings à 10 euros la journée. Il faut souvent des chaussures d&rsquo;eau à semelle rigide, une réserve d&rsquo;eau d&rsquo;au moins deux litres par personne et un [&hellip;]",
+        "mots_cles": [
+            "calabre",
+            "baigner",
+            "(costa",
+            "degli",
+            "dei)"
+        ]
+    },
+    {
         "url": "\/prise-electrique-en-sardaigne\/",
         "titre": "Prise électrique en Sardaigne : faut-il prévoir un adaptateur ?",
         "type": "article",
@@ -374,6 +456,23 @@
             "sicile",
             "prise",
             "electrique",
+            "faut-il",
+            "adaptateur"
+        ]
+    },
+    {
+        "url": "\/prises-electriques-a-naples-cote-amalfitaine\/",
+        "titre": "Prises Électriques à Naples et Côte Amalfitaine : Faut-il un adaptateur ?",
+        "type": "article",
+        "destination": "campanie",
+        "description": "Type C, Type F, Type L Prises Électriques à Naples : quels standards utiliser ? La question de la prise électrique à Naples et en Campanie réserve de nombreuses surprises logistiques aux voyageurs. En Italie du Sud, la modernisation des réseaux électriques avance à un rythme très variable selon les quartiers. Le centre historique napolitain et les villages de la Côte Amalfitaine abritent des immeubles construits bien avant le déploiement de l&rsquo;électricité grand public. Les mises aux normes se font souvent en surface, par ajouts successifs, en conservant le format historique national qui diffère du standard européen actuel. La péninsule italienne [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "prises",
+            "electriques",
+            "naples",
+            "cote",
+            "amalfitaine",
             "faut-il",
             "adaptateur"
         ]
@@ -440,6 +539,23 @@
             "faire",
             "gratuitement",
             "2026"
+        ]
+    },
+    {
+        "url": "\/que-manger-a-naples\/",
+        "titre": "Que manger à Naples : street food, trattorias et spécialités locales",
+        "type": "article",
+        "destination": "campanie",
+        "description": "Que manger à Naples &#8211; Spécialité Où la manger Prix Pizza Margherita \/ Marinara Da Michele, via Cesare Sersale 4 à 6 € Pizza a portafoglio Di Matteo, via dei Tribunali 2 à 3 € Pizza fritta Starita a Materdei ~6 € Cuoppo, frittatina, crocchè Friggitorie de la Pignasecca 1,50 à 2 € &lsquo;O pere e &lsquo;o musso Chariots de la Pignasecca \/ Porta Nolana ~4 € Ragù napoletano Tandem, via Paladino Prix variable Genovese Osteria della Mattonella 10 à 12 € Salsiccia e friarielli Salumeria Upnea ~6 € Spaghetti alle vongole Zi Teresa, Borgo Marinari 18 à 22 € Sfogliatella [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "manger",
+            "naples",
+            "street",
+            "food",
+            "trattorias",
+            "specialites",
+            "locales"
         ]
     },
     {
@@ -568,6 +684,40 @@
         ]
     },
     {
+        "url": "\/visiter-bosa\/",
+        "titre": "Visiter Bosa : Guide d'une Étape Incontournable près d'Alghero",
+        "type": "article",
+        "destination": "sardaigne",
+        "description": "Le cœur historique Que faire à Bosa : le centre historique de Sa Costa et le Castello Le quartier historique de Sa Costa s&rsquo;étend sur le flanc de la colline de Serravalle. L&rsquo;artère principale, le Corso Vittorio Emanuele II, reste plate. Elle concentre les palais bourgeois en pierre sombre, les balcons en fer forgé du XIXe siècle et les cafés où les habitants lisent L&rsquo;Unione Sarda le matin. Dès qu&rsquo;on quitte ce boulevard pour les rues perpendiculaires, la topographie change d&rsquo;un coup. Les rues se transforment en escaliers étroits. © Holger Uwe Schmitt \/ Wikimedia Commons — CC BY-SA 4.0 Chaque [&hellip;]",
+        "mots_cles": [
+            "sardaigne",
+            "visiter",
+            "bosa",
+            "guide",
+            "d'une",
+            "etape",
+            "incontournable",
+            "pres",
+            "d'alghero"
+        ]
+    },
+    {
+        "url": "\/visiter-castelsardo\/",
+        "titre": "Visiter Castelsardo : Itinéraire d'une Journée Parfaite",
+        "type": "article",
+        "destination": "sardaigne",
+        "description": "Le maestrale, ce vent thermique venu du nord-ouest, tape régulièrement contre les remparts en remontant l&rsquo;odeur du sel depuis les récifs. De loin, le village ressemble à une pyramide de pierre posée sur l&rsquo;eau, mais il faut en saisir les différents étages pour l&rsquo;explorer correctement. Au sommet du promontoire trachyte se dresse la citadelle médiévale, le Casteddu. À ses pieds s&rsquo;étend le quartier moderne de La Pianedda et le port de La Marina. Enfin, trois kilomètres plus à l&rsquo;ouest le long de la côte, se trouve le hameau de Lu Bagnu, une station balnéaire distincte prisée pour sa plage. Une journée [&hellip;]",
+        "mots_cles": [
+            "sardaigne",
+            "visiter",
+            "castelsardo",
+            "itineraire",
+            "d'une",
+            "journee",
+            "parfaite"
+        ]
+    },
+    {
         "url": "\/visiter-catane-en-4-jours-itineraire\/",
         "titre": "Visiter Catane en 4 jours : Mon itinéraire immersif",
         "type": "article",
@@ -580,6 +730,22 @@
             "jours",
             "itineraire",
             "immersif"
+        ]
+    },
+    {
+        "url": "\/visiter-cefalu\/",
+        "titre": "Visiter Cefalù depuis Palerme : Le Guide Pratique",
+        "type": "article",
+        "destination": "sicile",
+        "description": "Logistique &#8211; Visiter Cefalù Comment aller à Cefalù depuis Palerme en train ? Le choix du transport détermine votre journée. Laissez la voiture au parking. En juillet ou en août, arriver à Cefalù avec un véhicule de location tient du calvaire logistique. L&rsquo;autoroute A20 roule bien, mais la ville fonctionne comme un entonnoir. Elle est protégée par une Zone à Trafic Limité stricte, surveillée par des caméras à chaque intersection stratégique. Les rares parkings le long du front de mer, le Lungomare, saturent avant 9h30. Les tarifs grimpent facilement à 15 ou 20 € pour la journée sur des terrains vagues [&hellip;]",
+        "mots_cles": [
+            "sicile",
+            "visiter",
+            "cefalu",
+            "depuis",
+            "palerme",
+            "guide",
+            "pratique"
         ]
     },
     {
@@ -667,6 +833,23 @@
         ]
     },
     {
+        "url": "\/visiter-la-vallee-des-temples\/",
+        "titre": "Visiter la Vallée des Temples (2026) : Billets, Horaires & Astuces",
+        "type": "article",
+        "destination": "sicile",
+        "description": "L&rsquo;essentiel en un coup d&rsquo;œil Visiter la Vallée des Temples : horaires, tarifs et accès Info pratique Détail Horaires 8h30 à 20h00 la majeure partie de l&rsquo;année. Jusqu&rsquo;à 23h00 en semaine et minuit le week-end de mi-juillet à mi-septembre. Tarif plein 15 € (parc archéologique seul), 20 € avec le Musée Pietro Griffo Billet coupe-file Environ 22 €, à réserver en ligne Entrée nocturne Environ 15 €, mi-juillet à mi-septembre Durée de visite 2 heures minimum, 3 heures avec la Kolymbethra Meilleur créneau Ouverture à 8h30 ou après 17h00 Créneau à éviter 11h à 15h en été, forte affluence et chaleur [&hellip;]",
+        "mots_cles": [
+            "sicile",
+            "visiter",
+            "vallee",
+            "temples",
+            "(2026)",
+            "billets",
+            "horaires",
+            "astuces"
+        ]
+    },
+    {
         "url": "\/visiter-les-pouilles-pas-cher\/",
         "titre": "Visiter les Pouilles pas cher : 10 astuces de locaux pour économiser",
         "type": "article",
@@ -694,6 +877,23 @@
         ]
     },
     {
+        "url": "\/visiter-les-pouilles-sous-la-chaleur\/",
+        "titre": "Visiter les Pouilles sous la chaleur : Le guide et astuces pour rester au frais",
+        "type": "article",
+        "destination": "pouilles",
+        "description": "L&rsquo;effet four et le piège des caméras Visiter les Pouilles sous la chaleur en été : l&rsquo;effet four des villages blancs et le piège de la ZTL Le vent souffle du sud-ouest, descend des Apennins, perd toute son humidité en route et s&rsquo;abat sur la plaine. C&rsquo;est le Garbino. Dans la plaine de Foggia au nord comme dans le bassin du Salento au sud, ce vent plaque l&rsquo;air chaud au ras de l&rsquo;asphalte. L&rsquo;effet de réverbération aggrave la sensation thermique. Les centres historiques des villes baroques et des villages blancs amplifient le phénomène. Construits en pierre calcaire très claire, ils renvoient [&hellip;]",
+        "mots_cles": [
+            "pouilles",
+            "visiter",
+            "sous",
+            "chaleur",
+            "guide",
+            "astuces",
+            "rester",
+            "frais"
+        ]
+    },
+    {
         "url": "\/visiter-pompei\/",
         "titre": "Visiter Pompei en 2026 : Comment s'organiser ?",
         "type": "article",
@@ -706,6 +906,21 @@
             "2026",
             "comment",
             "s'organiser"
+        ]
+    },
+    {
+        "url": "\/visites-et-excursions-au-stromboli\/",
+        "titre": "Visites et excursions au Stromboli en 2026 : le guide",
+        "type": "article",
+        "destination": "sicile",
+        "description": "Les règles 2026 Accès au Stromboli en 2026 : les limites d&rsquo;altitude de l&rsquo;INGV Oubliez les photos de touristes assis au bord du cratère. Depuis 2019, l&rsquo;INGV, l&rsquo;institut de géophysique italien chargé de surveiller l&rsquo;activité sismique, a repris le contrôle de la montagne. L&rsquo;accès aux cratères sommitaux, situés à 924 mètres, est fermé au public. L&rsquo;itinéraire qui permettait autrefois de regarder directement dans le cratère n&rsquo;existe plus. En 2026, la montagne est divisée en trois zones. Altitude Accès Ce que vous voyez 0 à 290 m Libre, sans guide Sentier depuis la Piazza San Vincenzo. Pente modérée, chemin large et balisé. [&hellip;]",
+        "mots_cles": [
+            "sicile",
+            "visites",
+            "excursions",
+            "stromboli",
+            "2026",
+            "guide"
         ]
     },
     {
@@ -743,6 +958,17 @@
         "mots_cles": [
             "sardaigne",
             "alghero"
+        ]
+    },
+    {
+        "url": "\/villes\/amalfi\/",
+        "titre": "Amalfi",
+        "type": "ville",
+        "destination": "campanie",
+        "description": "À voir absolument Les incontournables d&rsquo;Amalfi Quatre sites concentrent l&rsquo;essentiel du patrimoine d&rsquo;Amalfi, tous accessibles à pied depuis la Piazza Duomo en moins de quinze minutes. 1 © J.T. 羅德生 \/ Wikimedia Commons — CC BY-SA 2.0 Duomo di Sant&rsquo;Andrea &amp; Chiostro del Paradiso La façade polychrome domine la Piazza Duomo au sommet de 62 marches. L&rsquo;édifice mêle plusieurs époques : portes en bronze coulées à Constantinople en 1060, clocher roman aux tuiles jaunes et vertes, crypte baroque abritant les reliques de Saint André. Le billet donne aussi accès au Chiostro del Paradiso, cimetière du XIIIe siècle bordé de 120 colonnes [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "amalfi"
         ]
     },
     {
@@ -798,6 +1024,17 @@
         "mots_cles": [
             "sicile",
             "catane"
+        ]
+    },
+    {
+        "url": "\/villes\/ischia\/",
+        "titre": "Ischia",
+        "type": "ville",
+        "destination": "campanie",
+        "description": "À voir absolument Que faire à Ischia : 5 expériences au-delà des plages Cinq expériences se distinguent sur l&rsquo;île, chacune avec sa propre logistique et son propre rythme. Voici les quatre premières, en commençant par la plus ancienne. 1 Le Castello Aragonese Un îlot de roche rattaché au bourg d&rsquo;Ischia Ponte par une jetée en pierre de 220 mètres, construite en 1441 par Alphonse V d&rsquo;Aragon. On y monte par un ascenseur creusé dans la roche ou par un tunnel pavé de briques. En haut, le site ressemble à un village abandonné : murs de la cathédrale détruite par les boulets [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "ischia"
         ]
     },
     {
@@ -878,6 +1115,17 @@
         ]
     },
     {
+        "url": "\/villes\/pizzo\/",
+        "titre": "Pizzo",
+        "type": "ville",
+        "destination": "calabre",
+        "description": "À voir absolument Les incontournables de Pizzo Trois lieux structurent la visite de Pizzo : une église creusée dans la roche au bord de la plage, une forteresse où le beau-frère de Napoléon a été fusillé, et la place où la ville entière se retrouve chaque soir. 1 © Sergio Spolti \/ Wikimedia Commons — CC BY-SA 4.0 La Chiesetta di Piedigrotta Une église creusée dans le tuf, à même la plage. Selon la légende locale, des marins napolitains naufragés au XVIIe siècle auraient promis un sanctuaire à la Vierge pour survivre. À la fin du XIXe siècle, les frères Angelo [&hellip;]",
+        "mots_cles": [
+            "calabre",
+            "pizzo"
+        ]
+    },
+    {
         "url": "\/villes\/polignano-a-mare\/",
         "titre": "Polignano a Mare",
         "type": "ville",
@@ -898,6 +1146,29 @@
         "mots_cles": [
             "campanie",
             "positano"
+        ]
+    },
+    {
+        "url": "\/villes\/reggio-calabria\/",
+        "titre": "Reggio Calabria",
+        "type": "ville",
+        "destination": "calabre",
+        "description": "À voir absolument Les sites majeurs de Reggio Calabria Quatre sites concentrent l&rsquo;essentiel d&rsquo;une visite à Reggio Calabria, tous accessibles à pied depuis le Corso Garibaldi en une demi-journée. 1 © Benjamin Smith \/ Wikimedia Commons — CC BY-SA 4.0 Le Musée Archéologique National (MArRC) et les Bronzes de Riace Deux guerriers grecs en bronze du Ve siècle avant J.-C., hauts d&rsquo;environ deux mètres, repêchés par huit mètres de fond en 1972. Dents en argent, lèvres en cuivre. Billet d&rsquo;entrée : environ 10 €. Sas de décontamination climatique obligatoire (3 minutes) avant la salle des bronzes. En août, réservez un billet [&hellip;]",
+        "mots_cles": [
+            "calabre",
+            "reggio",
+            "calabria"
+        ]
+    },
+    {
+        "url": "\/villes\/scilla\/",
+        "titre": "Scilla",
+        "type": "ville",
+        "destination": "calabre",
+        "description": "À voir absolument Chianalea, Castello Ruffo, Marina Grande : les 3 quartiers de Scilla San Giorgio occupe le sommet de la falaise, la partie administrative du village. En contrebas, un promontoire rocheux sépare Marina Grande à l&rsquo;ouest et le quartier de pêcheurs de Chianalea à l&rsquo;est. 1 © Villese92 \/ Wikimedia Commons — Domaine public · Voir sur la carte Chianalea, la Petite Venise du Sud Une bande de terre coincée entre la roche et la mer Tyrrhénienne, traversée par une rue unique de deux mètres de large. Les maisons sont bâties directement sur les rochers : à marée haute, l&rsquo;eau [&hellip;]",
+        "mots_cles": [
+            "calabre",
+            "scilla"
         ]
     },
     {
@@ -931,6 +1202,28 @@
         "mots_cles": [
             "sicile",
             "taormina"
+        ]
+    },
+    {
+        "url": "\/villes\/tarente\/",
+        "titre": "Tarente",
+        "type": "ville",
+        "destination": "pouilles",
+        "description": "À voir absolument Que visiter à Tarente ? Les sites majeurs Tarente concentre 2 800 ans d&rsquo;histoire sur une presqu&rsquo;île coincée entre deux mers. Fondée au VIIIe siècle avant notre ère par des exilés de Sparte, la ville a été l&rsquo;un des ports les plus riches de la Méditerranée antique. Voici les quatre sites qui structurent une visite, du fort militaire toujours occupé par la marine italienne au musée qui conserve les bijoux funéraires de la Grande Grèce. 1 Le Castello Aragonese Construit au XVe siècle par Ferdinand d&rsquo;Aragon sur des fondations byzantines, le château encadre le canal entre les deux [&hellip;]",
+        "mots_cles": [
+            "pouilles",
+            "tarente"
+        ]
+    },
+    {
+        "url": "\/villes\/tropea\/",
+        "titre": "Tropea",
+        "type": "ville",
+        "destination": "calabre",
+        "description": "À voir absolument Les incontournables de Tropea Quatre passages structurent une visite de Tropea. Deux tiennent en une heure. Les deux autres demandent d&rsquo;organiser sa journée autour d&rsquo;un horaire de bateau ou d&rsquo;une route de campagne. 1 © Andreas Lattmann \/ Wikimedia Commons — CC0 Sanctuaire Santa Maria dell&rsquo;Isola Église d&rsquo;origine byzantine, remaniée au gré des tremblements de terre, posée sur un rocher entouré d&rsquo;eau sur trois côtés. L&rsquo;accès se fait par un escalier taillé dans la falaise. Billet à 3 €. Le jardin de figuiers de Barbarie, au sommet, ouvre la vue sur l&rsquo;archipel des Éoliennes. Montez à 19h : [&hellip;]",
+        "mots_cles": [
+            "calabre",
+            "tropea"
         ]
     },
     {
@@ -1392,6 +1685,27 @@
         ],
         "meta": {
             "duree": "10 jours \/ 9 nuits",
+            "type": "Road-trip"
+        }
+    },
+    {
+        "url": "\/itineraires\/une-semaine-a-naples\/",
+        "titre": "Road-Trip 1 Semaine à Naples et en Campanie : Pompei, Îles & Côte Amalfitaine",
+        "type": "itineraire",
+        "destination": "campanie",
+        "description": "Une Semaine à Naples &#8211; L&rsquo;itinéraire en bref, jour par jour 1 NaplesSpaccanapoli, la chapelle Sansevero et la pizza du quartier 2 Ercolano · VésuveLes fresques d&rsquo;Herculanum et l&rsquo;ascension du cratère 3 Pompéi · SorrenteLe Forum, les rues antiques et le changement de base 4 CapriLe Monte Solaro, la Piazzetta et les Faraglioni 5 IschiaLe Castello Aragonese et les fumerolles de Maronti 6 Positano · AmalfiLa route SS163, Positano et le Duomo d&rsquo;Amalfi 7 RavelloLa Villa Cimbrone et la route du retour 1 Jour 1 · Naples Jour 1 · Naples — Naples de l&rsquo;intérieur Spaccanapoli et le tumulte © Luca [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "road-trip",
+            "semaine",
+            "naples",
+            "pompei",
+            "iles",
+            "cote",
+            "amalfitaine"
+        ],
+        "meta": {
+            "duree": "7 jours \/ 6 nuits",
             "type": "Road-trip"
         }
     }
