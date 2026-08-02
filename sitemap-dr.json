@@ -12,6 +12,23 @@
         ]
     },
     {
+        "url": "\/villages-grecs-de-calabre\/",
+        "titre": "Bova, Gallicianò, Pentedattilo : visiter les villages grecs de l'Aspromonte",
+        "type": "article",
+        "destination": "calabre",
+        "description": "La capitale perchée Bova : musée Rohlfs, sentier agricole et château normand Bova est le centre administratif et culturel de la zone hellénophone de Calabre. Posé à 820 mètres d&rsquo;altitude, le village compte environ 450 habitants à l&rsquo;année. Le parking se trouve à l&rsquo;entrée du bourg. Les ruelles montent en pente raide, pavées de pierre sombre, taillées pour couper le vent qui balaie les crêtes en hiver. © Cesare Barillà \/ Wikimedia Commons — CC BY-SA 4.0 © Antonina Dattola \/ Wikimedia Commons — CC BY-SA 4.0 Le Musée de la Langue Greco-Calabra Gerhard Rohlfs occupe une bâtisse via Sant&rsquo;Antonio, à [&hellip;]",
+        "mots_cles": [
+            "calabre",
+            "bova",
+            "galliciano",
+            "pentedattilo",
+            "visiter",
+            "villages",
+            "grecs",
+            "l'aspromonte"
+        ]
+    },
+    {
         "url": "\/plage-rose-sardaigne\/",
         "titre": "Budelli : La plage rose de Sardaigne",
         "type": "article",
@@ -206,6 +223,24 @@
             "qu'il",
             "faut",
             "savoir"
+        ]
+    },
+    {
+        "url": "\/que-faire-dans-le-cilento\/",
+        "titre": "Explorer la côte du Cilento : routes en lacets, criques et villages perchés",
+        "type": "article",
+        "destination": "campanie",
+        "description": "📋 Comment rejoindre le Cilento Avion : aéroport de Naples-Capodichino, le plus proche. Comparez les vols sur Skyscanner. Train : Naples ou Salerne, puis ligne régionale vers Paestum ou Ascea. Voiture : indispensable pour les villages perchés et les criques. Location à comparer sur Rentalcars, retrait possible à la gare de Salerne. À combiner avec Naples et la côte amalfitaine : notre itinéraire 5 jours en Campanie. Les temples dans la plaine Visiter Paestum : l&rsquo;archéologie grecque sans la foule © Diego Delso \/ Wikimedia Commons — CC BY-SA 4.0 Le choc visuel opère directement depuis la route nationale SS18. Au [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "explorer",
+            "cote",
+            "cilento",
+            "routes",
+            "lacets",
+            "criques",
+            "villages",
+            "perches"
         ]
     },
     {
@@ -2165,6 +2200,25 @@
         "meta": {
             "duree": "7 jours \/ 6 nuits",
             "type": "Séjour"
+        }
+    },
+    {
+        "url": "\/itineraires\/visiter-les-marches-en-1-semaine\/",
+        "titre": "Visiter la région des Marches : itinéraire complet de 7 jours",
+        "type": "itineraire",
+        "destination": "marches",
+        "description": "Les Marches en 1 Semaine &#8211; L&rsquo;itinéraire en bref, jour par jour 1 Gradara · UrbinoLa forteresse de Dante avant l&rsquo;arrivée à Urbino 2 UrbinoLe palais ducal et l&rsquo;atelier de Raphaël 3 GengaLes grottes de Frasassi et le temple du Valadier 4 Numana · SiroloLa traversée en bateau vers les Due Sorelle 5 PortonovoLes galets, la forteresse et les moules sauvages 6 Ascoli PicenoLe travertin blanc et l&rsquo;anisette Meletti 7 Ascoli PicenoLe pont romain et la route du retour 1 Jour 1 · Gradara · Urbino Jour 1 · Gradara · Urbino — De l&rsquo;aéroport au château de Gradara, entrée dans [&hellip;]",
+        "mots_cles": [
+            "marches",
+            "visiter",
+            "region",
+            "itineraire",
+            "complet",
+            "jours"
+        ],
+        "meta": {
+            "duree": "7 jours \/ 6 nuits",
+            "type": "Road-trip"
         }
     }
 ]
