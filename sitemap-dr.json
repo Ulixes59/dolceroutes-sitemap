@@ -2220,5 +2220,446 @@
             "duree": "7 jours \/ 6 nuits",
             "type": "Road-trip"
         }
+    },
+    {
+        "url": "\/activites\/excursion-archipel-la-maddalena-prix\/",
+        "titre": "Archipel de La Maddalena : Excursions et tarifs",
+        "type": "activite",
+        "destination": "sardaigne",
+        "mots_cles": [
+            "sardaigne",
+            "archipel",
+            "maddalena",
+            "excursions",
+            "tarifs"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "Environ 7 h selon l’offre"
+        }
+    },
+    {
+        "url": "\/activites\/catacombes-san-gennaro-naples\/",
+        "titre": "Catacombes de San Gennaro : billets, horaires et visite",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "catacombes",
+            "gennaro",
+            "billets",
+            "horaires",
+            "visite"
+        ],
+        "meta": {
+            "type_activite": "site_archeologique",
+            "duree": "1 h",
+            "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/chapelle-sansevero-christ-billets\/",
+        "titre": "Chapelle Sansevero : billets et visite du Christ voilé",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "chapelle",
+            "sansevero",
+            "billets",
+            "visite",
+            "christ",
+            "voile"
+        ],
+        "meta": {
+            "type_activite": "musee",
+            "duree": "45 min à 1 h",
+            "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/chateau-aragonais-ischia-prix\/",
+        "titre": "Château aragonais d’Ischia : billets, horaires et visite",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "chateau",
+            "aragonais",
+            "d’ischia",
+            "billets",
+            "horaires",
+            "visite"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Environ 1 h 30 pour près de 2 km",
+            "ville": "ischia"
+        }
+    },
+    {
+        "url": "\/activites\/iles-eoliennes-depuis-tropea\/",
+        "titre": "Excursion aux îles Éoliennes depuis Tropea",
+        "type": "activite",
+        "destination": "calabre",
+        "mots_cles": [
+            "calabre",
+            "excursion",
+            "iles",
+            "eoliennes",
+            "depuis",
+            "tropea"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "Environ 11 h 15 à 11 h 30",
+            "ville": "tropea"
+        }
+    },
+    {
+        "url": "\/activites\/excursion-bateau-tropea-capovaticano\/",
+        "titre": "Excursion en bateau de Tropea à Capo Vaticano : Formules et tarifs",
+        "type": "activite",
+        "destination": "calabre",
+        "mots_cles": [
+            "calabre",
+            "excursion",
+            "bateau",
+            "tropea",
+            "capo",
+            "vaticano",
+            "formules",
+            "tarifs"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "2 h 30 à 3 h selon la formule",
+            "ville": "tropea"
+        }
+    },
+    {
+        "url": "\/activites\/excursion-nocturne-stromboli\/",
+        "titre": "Excursion nocturne à Stromboli : Tarifs et lieu de départ",
+        "type": "activite",
+        "destination": "calabre",
+        "mots_cles": [
+            "calabre",
+            "excursion",
+            "nocturne",
+            "stromboli",
+            "tarifs",
+            "lieu",
+            "depart"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "Une longue journée ou une sortie d’environ 8 h selon la formule",
+            "ville": "tropea"
+        }
+    },
+    {
+        "url": "\/activites\/excursion-bateau-golfe-dorosei-tarif\/",
+        "titre": "Golfe d’Orosei : Excursions, Zones de départs et Tarifs",
+        "type": "activite",
+        "destination": "sardaigne",
+        "mots_cles": [
+            "sardaigne",
+            "golfe",
+            "d’orosei",
+            "excursions",
+            "zones",
+            "departs",
+            "tarifs"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "7 à 10 h selon le port et la formule"
+        }
+    },
+    {
+        "url": "\/activites\/grottes-marines-polignano-bateau\/",
+        "titre": "Grottes marines de Polignano a Mare en 2026 : sorties en bateau",
+        "type": "activite",
+        "destination": "pouilles",
+        "mots_cles": [
+            "pouilles",
+            "grottes",
+            "marines",
+            "polignano",
+            "mare",
+            "2026",
+            "sorties",
+            "bateau"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "1 h 30 à 2 h 30 selon la formule",
+            "ville": "polignano-a-mare"
+        }
+    },
+    {
+        "url": "\/activites\/musee-archeologique-naples-billets\/",
+        "titre": "Musée archéologique de Naples : billets, horaires et collections",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "musee",
+            "archeologique",
+            "naples",
+            "billets",
+            "horaires",
+            "collections"
+        ],
+        "meta": {
+            "type_activite": "musee",
+            "duree": "2 h 30 à 4 h",
+            "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/parc-archeologique-paestum-billets\/",
+        "titre": "Parc archéologique de Paestum : temples, musée et conseils",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "parc",
+            "archeologique",
+            "paestum",
+            "temples",
+            "musee",
+            "conseils"
+        ],
+        "meta": {
+            "type_activite": "site_archeologique",
+            "duree": "3 h 30 à 4 h 30 avec le musée",
+            "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/cratere-vesuve-gran-cono\/",
+        "titre": "Randonnée au Vésuve : tout savoir avant de monter au cratère",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "randonnee",
+            "vesuve",
+            "tout",
+            "savoir",
+            "avant",
+            "monter",
+            "cratere"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "2 h maximum pour l’aller-retour court",
+            "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/sentier-des-dieux-randonnee\/",
+        "titre": "Randonner sur le Sentier des Dieux, au-dessus de la côte amalfitaine",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "randonner",
+            "sentier",
+            "dieux",
+            "au-dessus",
+            "cote",
+            "amalfitaine"
+        ],
+        "meta": {
+            "type_activite": "site_naturel",
+            "duree": "Environ 3 h de marche ; 4 à 5 h avec pauses et logistique",
+            "ville": "positano"
+        }
+    },
+    {
+        "url": "\/activites\/visite-guidee-lecce-baroque\/",
+        "titre": "Visite guidée de Lecce baroque en 2026 : circuits et prix",
+        "type": "activite",
+        "destination": "pouilles",
+        "mots_cles": [
+            "pouilles",
+            "visite",
+            "guidee",
+            "lecce",
+            "baroque",
+            "2026",
+            "circuits",
+            "prix"
+        ],
+        "meta": {
+            "type_activite": "visite_guidee",
+            "duree": "De 1 h 30 à 2 h selon la formule",
+            "ville": "lecce"
+        }
+    },
+    {
+        "url": "\/activites\/castel-del-monte-billets-acces\/",
+        "titre": "Visiter Castel del Monte en 2026 : billets, accès et navette",
+        "type": "activite",
+        "destination": "pouilles",
+        "mots_cles": [
+            "pouilles",
+            "visiter",
+            "castel",
+            "monte",
+            "2026",
+            "billets",
+            "acces",
+            "navette"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Environ 1 h sur place · 3 h 30 à 4 h depuis Andria",
+            "ville": "bari"
+        }
+    },
+    {
+        "url": "\/activites\/herculanum-billets-prix\/",
+        "titre": "Visiter Herculanum : billets, horaires et parcours conseillé",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "visiter",
+            "herculanum",
+            "billets",
+            "horaires",
+            "parcours",
+            "conseille"
+        ],
+        "meta": {
+            "type_activite": "site_archeologique",
+            "duree": "2 h 30 à 3 h",
+            "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/grotte-bleue-capri-prix-acces\/",
+        "titre": "Visiter la Grotte Bleue à Capri : ce qu’il faut savoir",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "visiter",
+            "grotte",
+            "bleue",
+            "capri",
+            "qu’il",
+            "faut",
+            "savoir"
+        ],
+        "meta": {
+            "type_activite": "site_naturel",
+            "duree": "3 à 5 min dans la grotte ; 1 à 2 h ou davantage avec l’attente",
+            "ville": "capri"
+        }
+    },
+    {
+        "url": "\/activites\/palais-royal-caserte-billets-tarifs\/",
+        "titre": "Visiter le palais de Caserte et ses jardins monumentaux",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "visiter",
+            "palais",
+            "caserte",
+            "jardins",
+            "monumentaux"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "6 h à une journée",
+            "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/grottes-castellana-billets-parcours\/",
+        "titre": "Visiter les Grottes de Castellana en 2026 : billets et parcours",
+        "type": "activite",
+        "destination": "pouilles",
+        "mots_cles": [
+            "pouilles",
+            "visiter",
+            "grottes",
+            "castellana",
+            "2026",
+            "billets",
+            "parcours"
+        ],
+        "meta": {
+            "type_activite": "site_naturel",
+            "duree": "50 min ou 100 min selon le parcours",
+            "ville": "bari"
+        }
+    },
+    {
+        "url": "\/activites\/trulli-alberobello-quartiers-visites\/",
+        "titre": "Visiter les trulli d’Alberobello en 2026 : quartiers et visites guidées",
+        "type": "activite",
+        "destination": "pouilles",
+        "mots_cles": [
+            "pouilles",
+            "visiter",
+            "trulli",
+            "d’alberobello",
+            "2026",
+            "quartiers",
+            "visites",
+            "guidees"
+        ],
+        "meta": {
+            "type_activite": "visite_guidee",
+            "duree": "2 h à 4 h selon les intérieurs visités",
+            "ville": "alberobello"
+        }
+    },
+    {
+        "url": "\/activites\/napoli-sotterranea-san-gaetano\/",
+        "titre": "Visiter Naples souterraine : une plongée sous la ville",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "visiter",
+            "naples",
+            "souterraine",
+            "plongee",
+            "sous",
+            "ville"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "1 h 30 à 2 h",
+            "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/parc-archeologique-pompei-billets\/",
+        "titre": "Visiter Pompéi en 2026 : billets, horaires et conseils pratiques",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "visiter",
+            "pompei",
+            "2026",
+            "billets",
+            "horaires",
+            "conseils",
+            "pratiques"
+        ],
+        "meta": {
+            "type_activite": "site_archeologique",
+            "duree": "4 à 6 h",
+            "ville": "naples"
+        }
     }
 ]
