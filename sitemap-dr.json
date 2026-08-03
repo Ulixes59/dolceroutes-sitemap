@@ -1320,6 +1320,17 @@
         ]
     },
     {
+        "url": "\/villes\/assise\/",
+        "titre": "Assise",
+        "type": "ville",
+        "destination": "ombrie",
+        "description": "À voir absolument Les lieux majeurs d&rsquo;Assise L&rsquo;UNESCO n&rsquo;a pas classé qu&rsquo;une basilique, mais un écosystème urbain entier où les palais laïcs et les églises partagent la même pierre. La ville est taillée dans la montagne qui la surplombe, le mont Subasio, et cette géologie explique l&rsquo;esthétique locale depuis l&rsquo;Antiquité romaine. Les tailleurs extraient un calcaire rosâtre dont la couleur change selon l&rsquo;heure : gris terne sous la pluie, rose profond presque orange en plein soleil. Aucune rupture entre les maisons modestes, les palais épiscopaux et le pavement des ruelles. Tout est cousu du même fil minéral. 1 © Blackcat \/ [&hellip;]",
+        "mots_cles": [
+            "ombrie",
+            "assise"
+        ]
+    },
+    {
         "url": "\/villes\/bari\/",
         "titre": "Bari",
         "type": "ville",
@@ -1485,6 +1496,17 @@
         ]
     },
     {
+        "url": "\/villes\/orvieto\/",
+        "titre": "Orvieto",
+        "type": "ville",
+        "destination": "ombrie",
+        "description": "À voir absolument Le Duomo, le puits et la ville sous terre Le plateau de tuf impose des limites physiques strictes. L&rsquo;espace en surface est compté depuis 2 500 ans. Cette contrainte a forcé les bâtisseurs à creuser la roche plutôt qu&rsquo;à s&rsquo;étendre : de la cathédrale qui domine les toits jusqu&rsquo;aux puits qui percent le sol sur 53 mètres, chaque site répond au même problème géologique. 1 © Wikimedia Commons — Domaine public Le Duomo et la Cappella di San Brizio La façade gothique surgit au bout d&rsquo;une ruelle étroite. Les quatre piliers de la base portent des bas-reliefs de [&hellip;]",
+        "mots_cles": [
+            "ombrie",
+            "orvieto"
+        ]
+    },
+    {
         "url": "\/villes\/visiter-ostuni\/",
         "titre": "Ostuni",
         "type": "ville",
@@ -1504,6 +1526,17 @@
         "mots_cles": [
             "sicile",
             "palerme"
+        ]
+    },
+    {
+        "url": "\/villes\/perouse\/",
+        "titre": "Pérouse",
+        "type": "ville",
+        "destination": "ombrie",
+        "description": "À voir absolument Pérouse, la ville étrusque que Rome a voulu faire taire La Piazza IV Novembre sert de centre de gravité géographique et historique à la ville. Avant de s&rsquo;y attarder, il faut comprendre ce qui se trouve quelques mètres plus bas. 1 © Enric \/ Wikimedia Commons — CC BY-SA 4.0 La Rocca Paolina, la ville enterrée Construite entre 1540 et 1543 sur ordre du pape Paul III Farnese, la forteresse a rasé le quartier de la famille Baglioni : environ 300 maisons, 26 tours, plusieurs églises. Les Pérugins l&rsquo;ont démolie par étapes entre 1848 et 1860. Il ne [&hellip;]",
+        "mots_cles": [
+            "ombrie",
+            "perouse"
         ]
     },
     {
@@ -2438,6 +2471,24 @@
         }
     },
     {
+        "url": "\/activites\/visite-porto-flavia-tarifs-acces\/",
+        "titre": "Porto Flavia : Visite et observation depuis la mer",
+        "type": "activite",
+        "destination": "sardaigne",
+        "mots_cles": [
+            "sardaigne",
+            "porto",
+            "flavia",
+            "visite",
+            "observation",
+            "depuis"
+        ],
+        "meta": {
+            "type_activite": "visite_guidee",
+            "duree": "Environ 50 min de visite guidée"
+        }
+    },
+    {
         "url": "\/activites\/cratere-vesuve-gran-cono\/",
         "titre": "Randonnée au Vésuve : tout savoir avant de monter au cratère",
         "type": "activite",
@@ -2476,6 +2527,23 @@
             "type_activite": "site_naturel",
             "duree": "Environ 3 h de marche ; 4 à 5 h avec pauses et logistique",
             "ville": "positano"
+        }
+    },
+    {
+        "url": "\/activites\/decouverte-visite-ile-asinara\/",
+        "titre": "Une journée à la Découverte de l’île de l’Asinara",
+        "type": "activite",
+        "destination": "sardaigne",
+        "mots_cles": [
+            "sardaigne",
+            "journee",
+            "decouverte",
+            "l’ile",
+            "l’asinara"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "Une journée complète"
         }
     },
     {
@@ -2559,6 +2627,25 @@
             "type_activite": "site_naturel",
             "duree": "3 à 5 min dans la grotte ; 1 à 2 h ou davantage avec l’attente",
             "ville": "capri"
+        }
+    },
+    {
+        "url": "\/activites\/visite-grotte-neptune-alghero\/",
+        "titre": "Visiter la Grotte de Neptune : Tarifs et accès",
+        "type": "activite",
+        "destination": "sardaigne",
+        "mots_cles": [
+            "sardaigne",
+            "visiter",
+            "grotte",
+            "neptune",
+            "tarifs",
+            "acces"
+        ],
+        "meta": {
+            "type_activite": "site_naturel",
+            "duree": "Environ 30 min de visite guidée, hors accès",
+            "ville": "alghero"
         }
     },
     {
@@ -2660,6 +2747,26 @@
             "type_activite": "site_archeologique",
             "duree": "4 à 6 h",
             "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/visiter-su-nuraxi-tarifs-horaires\/",
+        "titre": "Visiter Su Nuraxi : Le plus célèbre site Nuraghe Sarde",
+        "type": "activite",
+        "destination": "sardaigne",
+        "mots_cles": [
+            "sardaigne",
+            "visiter",
+            "nuraxi",
+            "plus",
+            "celebre",
+            "site",
+            "nuraghe",
+            "sarde"
+        ],
+        "meta": {
+            "type_activite": "visite_guidee",
+            "duree": "Environ 2 à 3 heures pour les trois sites, hors déplacements entre eux"
         }
     }
 ]
