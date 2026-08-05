@@ -367,6 +367,25 @@
         ]
     },
     {
+        "url": "\/naples-en-aout\/",
+        "titre": "Le programme de Naples en août 2026 : cinéma, concerts, musées et visites nocturnes",
+        "type": "article",
+        "destination": "campanie",
+        "description": "Le festival municipal Que faire le soir à Naples en août : l&rsquo;Estate a Napoli Le programme « Estate a Napoli » utilise les monuments historiques à la nuit tombée, quand la pierre volcanique commence à relâcher la chaleur de la journée. © Sailko \/ Wikimedia Commons · CC BY-SA 3.0 La cour du Castel Nuovo (le Maschio Angioino) accueille des représentations théâtrales en dialecte et des concerts acoustiques. Les chaises pliantes sont installées sur les pavés inégaux de la cour intérieure, entre de hauts murs qui bloquent les bruits du port tout proche. Du côté de la Piazza Garibaldi, la cavea récemment [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "programme",
+            "naples",
+            "aout",
+            "2026",
+            "cinema",
+            "concerts",
+            "musees",
+            "visites",
+            "nocturnes"
+        ]
+    },
+    {
         "url": "\/villages-caches-pouilles\/",
         "titre": "Les 4 Villages Cachés des Pouilles à Voir Absolument",
         "type": "article",
@@ -585,6 +604,22 @@
         ]
     },
     {
+        "url": "\/ou-manger-a-olbia\/",
+        "titre": "Où manger à Olbia : 8 adresses entre le port et l'arrière-pays",
+        "type": "article",
+        "destination": "sardaigne",
+        "description": "L&rsquo;arrière-pays gallurais Où manger un repas sarde traditionnel autour d&rsquo;Olbia ? La campagne autour d&rsquo;Olbia est parsemée d&rsquo;anciennes bergeries reconverties, les stazzi, reconnaissables à leurs toits bas et leurs tables massives en bois. On y va pour la viande et les glucides, jamais pour le poisson. Où manger à Olbia 📋 À savoir avant de réserver dans un agriturismo Le menu unique : pas de carte à table. Vous payez un prix fixe, souvent entre 40 et 50 €, qui inclut tout, de la farandole d&rsquo;antipasti jusqu&rsquo;au café, en passant par le vin rouge de la maison servi à volonté et [&hellip;]",
+        "mots_cles": [
+            "sardaigne",
+            "manger",
+            "olbia",
+            "adresses",
+            "entre",
+            "port",
+            "l'arriere-pays"
+        ]
+    },
+    {
         "url": "\/ou-manger-a-palerme\/",
         "titre": "Où manger à Palerme ? 5 adresses pour ne rien rater de la gastronomie sicilienne",
         "type": "article",
@@ -613,6 +648,22 @@
             "(costa",
             "degli",
             "dei)"
+        ]
+    },
+    {
+        "url": "\/trulli-ruraux-hors-alberobello\/",
+        "titre": "Où voir les trulli ruraux : l'itinéraire hors d'Alberobello",
+        "type": "article",
+        "destination": "pouilles",
+        "description": "L&rsquo;outil agricole Trulli ruraux dans la Vallée d&rsquo;Itria : pourquoi ce sont d&rsquo;abord des abris thermiques Un trullo isolé dans un champ n&rsquo;est pas conçu pour l&rsquo;esthétique. C&rsquo;est un abri logistique. Les paysans des Pouilles le construisaient pour stocker leurs outils, abriter un animal ou dormir sur place pendant les semaines de récolte. En observant ces constructions sur le bas-côté des routes de campagne, on distingue la logique architecturale qui échappe aux touristes dans les villes. © JP Vets \/ Wikimedia Commons &#8211; CC BY-SA 4.0 Les murs sont montés à sec, sans mortier, en superposant les blocs de pierre calcaire [&hellip;]",
+        "mots_cles": [
+            "pouilles",
+            "voir",
+            "trulli",
+            "ruraux",
+            "l'itineraire",
+            "hors",
+            "d'alberobello"
         ]
     },
     {
@@ -2248,6 +2299,26 @@
         }
     },
     {
+        "url": "\/itineraires\/itineraire-ombrie-en-7-jours\/",
+        "titre": "Visiter l'Ombrie en 7 jours : Itinéraire, étapes et budget",
+        "type": "itineraire",
+        "destination": "ombrie",
+        "description": "L&rsquo;ombrie en 7 jours &#8211; L&rsquo;itinéraire en bref, jour par jour 1 Gubbio · PérouseLa Corsa dei Ceri et la Rocca Paolina 2 PérouseLa ville souterraine ensevelie sous les Baglioni 3 AssiseLa Basilique et les fresques de Giotto 4 Assise · Mont SubasioLa Rocca Maggiore et l&rsquo;ermitage des Carceri 5 Spoleto · OrvietoLe Ponte delle Torri et la route du lac de Corbara 6 OrvietoLe puits de Saint Patrick et la ville souterraine 7 Civita di BagnoregioLa ville qui meurt avant le retour à Rome 1 Jour 1 · Gubbio · Pérouse Jour 1 · Gubbio · Pérouse — Visiter Gubbio [&hellip;]",
+        "mots_cles": [
+            "ombrie",
+            "visiter",
+            "l'ombrie",
+            "jours",
+            "itineraire",
+            "etapes",
+            "budget"
+        ],
+        "meta": {
+            "duree": "7 jours \/ 6 nuits",
+            "type": "Road-trip"
+        }
+    },
+    {
         "url": "\/itineraires\/visiter-la-calabre-en-7-jours\/",
         "titre": "Visiter la Calabre en 1 semaine : Notre itinéraire complet",
         "type": "itineraire",
@@ -2442,7 +2513,7 @@
     },
     {
         "url": "\/activites\/grottes-marines-polignano-bateau\/",
-        "titre": "Grottes marines de Polignano a Mare en 2026 : sorties en bateau",
+        "titre": "Grottes marines de Polignano a Mare : sorties en bateau",
         "type": "activite",
         "destination": "pouilles",
         "mots_cles": [
@@ -2451,7 +2522,6 @@
             "marines",
             "polignano",
             "mare",
-            "2026",
             "sorties",
             "bateau"
         ],
@@ -2459,6 +2529,24 @@
             "type_activite": "excursion",
             "duree": "1 h 30 à 2 h 30 selon la formule",
             "ville": "polignano-a-mare"
+        }
+    },
+    {
+        "url": "\/activites\/masques-traditionnels-mamoiada\/",
+        "titre": "Masques de Mamoiada : musée, expériences et carnaval",
+        "type": "activite",
+        "destination": "sardaigne",
+        "mots_cles": [
+            "sardaigne",
+            "masques",
+            "mamoiada",
+            "musee",
+            "experiences",
+            "carnaval"
+        ],
+        "meta": {
+            "type_activite": "musee",
+            "duree": "La durée de la visite du musée n’est pas publiée ; les expériences réservables durent 20 ou 30 minutes."
         }
     },
     {
@@ -2479,6 +2567,26 @@
             "type_activite": "musee",
             "duree": "2 h 30 à 4 h",
             "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/visite-parc-archeologique-nora\/",
+        "titre": "Parc archéologique de Nora : Horaires, tarifs et accès",
+        "type": "activite",
+        "destination": "sardaigne",
+        "mots_cles": [
+            "sardaigne",
+            "parc",
+            "archeologique",
+            "nora",
+            "horaires",
+            "tarifs",
+            "acces"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Prévoyez une demi-journée depuis Cagliari ; la durée de la visite libre n’est pas publiée",
+            "ville": "cagliari"
         }
     },
     {
@@ -2561,6 +2669,25 @@
         }
     },
     {
+        "url": "\/activites\/visite-theatre-antique-taormina\/",
+        "titre": "Théâtre antique de Taormina : Billets et horaires",
+        "type": "activite",
+        "destination": "sicile",
+        "mots_cles": [
+            "sicile",
+            "theatre",
+            "antique",
+            "taormina",
+            "billets",
+            "horaires"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Environ 1 h pour le site, selon le parcours et le temps consacré au panorama",
+            "ville": "taormina"
+        }
+    },
+    {
         "url": "\/activites\/decouverte-visite-ile-asinara\/",
         "titre": "Une journée à la Découverte de l’île de l’Asinara",
         "type": "activite",
@@ -2578,8 +2705,28 @@
         }
     },
     {
+        "url": "\/activites\/visite-vallee-des-temples-sicile\/",
+        "titre": "Vallée des Temples d’Agrigente : Billets, horaires, accès et conseils",
+        "type": "activite",
+        "destination": "sicile",
+        "mots_cles": [
+            "sicile",
+            "vallee",
+            "temples",
+            "d’agrigente",
+            "billets",
+            "horaires",
+            "acces",
+            "conseils"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Gardez une large demi-journée ; aucune durée officielle n’est publiée"
+        }
+    },
+    {
         "url": "\/activites\/visite-guidee-lecce-baroque\/",
-        "titre": "Visite guidée de Lecce baroque en 2026 : circuits et prix",
+        "titre": "Visite guidée de Lecce baroque : Circuits et prix",
         "type": "activite",
         "destination": "pouilles",
         "mots_cles": [
@@ -2588,7 +2735,6 @@
             "guidee",
             "lecce",
             "baroque",
-            "2026",
             "circuits",
             "prix"
         ],
@@ -2600,7 +2746,7 @@
     },
     {
         "url": "\/activites\/castel-del-monte-billets-acces\/",
-        "titre": "Visiter Castel del Monte en 2026 : billets, accès et navette",
+        "titre": "Visiter Castel del Monte : Billets, accès et navette",
         "type": "activite",
         "destination": "pouilles",
         "mots_cles": [
@@ -2608,7 +2754,6 @@
             "visiter",
             "castel",
             "monte",
-            "2026",
             "billets",
             "acces",
             "navette"
@@ -2700,7 +2845,7 @@
     },
     {
         "url": "\/activites\/grottes-castellana-billets-parcours\/",
-        "titre": "Visiter les Grottes de Castellana en 2026 : billets et parcours",
+        "titre": "Visiter les Grottes de Castellana : Billets et parcours",
         "type": "activite",
         "destination": "pouilles",
         "mots_cles": [
@@ -2708,7 +2853,6 @@
             "visiter",
             "grottes",
             "castellana",
-            "2026",
             "billets",
             "parcours"
         ],
@@ -2720,7 +2864,7 @@
     },
     {
         "url": "\/activites\/trulli-alberobello-quartiers-visites\/",
-        "titre": "Visiter les trulli d’Alberobello en 2026 : quartiers et visites guidées",
+        "titre": "Visiter les trulli d’Alberobello : Quartiers et visites guidées",
         "type": "activite",
         "destination": "pouilles",
         "mots_cles": [
@@ -2728,7 +2872,6 @@
             "visiter",
             "trulli",
             "d’alberobello",
-            "2026",
             "quartiers",
             "visites",
             "guidees"
