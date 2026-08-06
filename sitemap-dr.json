@@ -2621,6 +2621,27 @@
         }
     },
     {
+        "url": "\/activites\/visite-palais-des-normands-palerme\/",
+        "titre": "Palais des Normands à Palerme : Le plus ancien palais royal d'Europe",
+        "type": "activite",
+        "destination": "sicile",
+        "mots_cles": [
+            "sicile",
+            "palais",
+            "normands",
+            "palerme",
+            "plus",
+            "ancien",
+            "royal",
+            "d'europe"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Environ 1 h 30 pour la visite guidée du complexe ; davantage avec l’option de promenade urbaine",
+            "ville": "palerme"
+        }
+    },
+    {
         "url": "\/activites\/visite-parc-neapolis-syracuse\/",
         "titre": "Parc archéologique de Néapolis à Syracuse : Présentation, tarifs, horaires et accès",
         "type": "activite",
@@ -2683,6 +2704,27 @@
         }
     },
     {
+        "url": "\/activites\/visite-parc-archeologique-selinonte\/",
+        "titre": "Parc archéologique de Sélinonte : Visite de l'ancienne ville grecque antique",
+        "type": "activite",
+        "destination": "sicile",
+        "mots_cles": [
+            "sicile",
+            "parc",
+            "archeologique",
+            "selinonte",
+            "visite",
+            "l'ancienne",
+            "ville",
+            "grecque",
+            "antique"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Prévoyez une demi-journée pour relier plusieurs secteurs sans courir ; la visite guidée retenue dure 2 heures"
+        }
+    },
+    {
         "url": "\/activites\/visite-porto-flavia-tarifs-acces\/",
         "titre": "Porto Flavia : Visite et observation depuis la mer",
         "type": "activite",
@@ -2742,6 +2784,26 @@
         }
     },
     {
+        "url": "\/activites\/visite-parc-archeologique-segeste\/",
+        "titre": "Site archéologique de Ségeste : Temple Dorique et Théatre antique",
+        "type": "activite",
+        "destination": "sicile",
+        "mots_cles": [
+            "sicile",
+            "site",
+            "archeologique",
+            "segeste",
+            "temple",
+            "dorique",
+            "theatre",
+            "antique"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Prévoyez au moins 2 h 30 sur place pour le temple et le théâtre ; le parc ne publie ni durée globale ni distance officielle"
+        }
+    },
+    {
         "url": "\/activites\/visite-theatre-antique-taormina\/",
         "titre": "Théâtre antique de Taormina : Billets et horaires",
         "type": "activite",
@@ -2795,6 +2857,25 @@
         "meta": {
             "type_activite": "monument",
             "duree": "Gardez une large demi-journée ; aucune durée officielle n’est publiée"
+        }
+    },
+    {
+        "url": "\/activites\/visite-villa-romana-del-casale\/",
+        "titre": "Villa Romana del Casale : Ses incroyables mosaïques romaines",
+        "type": "activite",
+        "destination": "sicile",
+        "mots_cles": [
+            "sicile",
+            "villa",
+            "romana",
+            "casale",
+            "incroyables",
+            "mosaiques",
+            "romaines"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Prévoyez 2 à 3 heures pour parcourir les espaces de la villa sans vous presser."
         }
     },
     {
