@@ -12,6 +12,23 @@
         ]
     },
     {
+        "url": "\/catane-en-aout\/",
+        "titre": "Agenda d'août à Catane : concerts, Sant'Agata et nuits sur la Plaia",
+        "type": "article",
+        "destination": "sicile",
+        "description": "Retour de la sainte patronne Festa di Sant&rsquo;Agata Estiva à Catane : programme du 17 août Oubliez la version longue de février. Le 17 août, Catane s&#8217;embrase pour le retour estival de sa patronne. La ville se réveille de sa sieste vers 18h00. Sur la Piazza Duomo, la foule s&rsquo;amasse dès 19h00. La chaleur est lourde, l&rsquo;air circule peu entre les palais baroques construits en pierre de lave. Les femmes portent souvent des vêtements verts ou le sacco, la tunique blanche traditionnelle, tenant de lourds cierges de cire. Le cortège démarre à 20h30 pour un trajet resserré autour de la cathédrale. [&hellip;]",
+        "mots_cles": [
+            "sicile",
+            "agenda",
+            "d'aout",
+            "catane",
+            "concerts",
+            "sant'agata",
+            "nuits",
+            "plaia"
+        ]
+    },
+    {
         "url": "\/villages-grecs-de-calabre\/",
         "titre": "Bova, Gallicianò, Pentedattilo : visiter les villages grecs de l'Aspromonte",
         "type": "article",
@@ -257,6 +274,24 @@
             "kilometres",
             "faille",
             "coeur"
+        ]
+    },
+    {
+        "url": "\/visiter-favignana\/",
+        "titre": "Favignana : forteresses, carrières de tuffeau de l'île sicilienne face au vent",
+        "type": "article",
+        "destination": "sicile",
+        "description": "La majorité des voyageurs débarquent de l&rsquo;hydroglisseur à 9h30, louent un vélo sur le port, rôtissent sur les rochers calcaires de Cala Rossa et repartent avec le bateau de 18h15. Sous la surface de l&rsquo;eau, dans la roche creusée à coups de hache et sur son plus haut sommet, Favignana garde les traces de ceux qui s&rsquo;y sont affrontés ou y ont été enfermés. 📌 En résumé 📍 LocalisationÎles Égades, 7 km au large de Trapani ⛴️ Traversée30 min depuis Trapani, dès 12 € 📐 Superficie19 km², 80 % plat 📅 Meilleure périodeMai-juin · Septembre Sur les pas d&rsquo;Ulysse Château de [&hellip;]",
+        "mots_cles": [
+            "sicile",
+            "favignana",
+            "forteresses",
+            "carrieres",
+            "tuffeau",
+            "l'ile",
+            "sicilienne",
+            "face",
+            "vent"
         ]
     },
     {
@@ -735,6 +770,22 @@
             "quand",
             "partir",
             "saisons"
+        ]
+    },
+    {
+        "url": "\/palerme-en-aout\/",
+        "titre": "Que faire à Palerme en août 2026 ? Agenda et programme",
+        "type": "article",
+        "destination": "sicile",
+        "description": "Le rythme estival Que faire à Palerme en août : organiser sa journée avec la chaleur © LANCIAY 1 \/ Wikimedia Commons — CC0 En août, les normales de saison placent régulièrement le thermomètre au-dessus de 30°C à Palerme. L&rsquo;air se réchauffe vite dans la cuvette où la ville est posée. Deux créneaux structurent la journée. Le matin reste le meilleur moment pour observer les marchés et visiter le centre. Ballarò est actif dès les premières heures : les marchands de poissons et de légumes installent leurs étals tôt, quand l&rsquo;air est encore respirable. Concentrez les visites de monuments et d&rsquo;églises [&hellip;]",
+        "mots_cles": [
+            "sicile",
+            "faire",
+            "palerme",
+            "aout",
+            "2026",
+            "agenda",
+            "programme"
         ]
     },
     {
@@ -2570,6 +2621,28 @@
         }
     },
     {
+        "url": "\/activites\/visite-parc-neapolis-syracuse\/",
+        "titre": "Parc archéologique de Néapolis à Syracuse : Présentation, tarifs, horaires et accès",
+        "type": "activite",
+        "destination": "sicile",
+        "mots_cles": [
+            "sicile",
+            "parc",
+            "archeologique",
+            "neapolis",
+            "syracuse",
+            "presentation",
+            "tarifs",
+            "horaires",
+            "acces"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Prévoyez environ 2 h pour les principaux monuments ; aucune durée officielle globale n’est publiée",
+            "ville": "syracuse"
+        }
+    },
+    {
         "url": "\/activites\/visite-parc-archeologique-nora\/",
         "titre": "Parc archéologique de Nora : Horaires, tarifs et accès",
         "type": "activite",
@@ -2782,6 +2855,27 @@
             "type_activite": "site_archeologique",
             "duree": "2 h 30 à 3 h",
             "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/etna-telepherique-rifugio-sapienza\/",
+        "titre": "Visiter l'Etna depuis le versant sud : Excursions et Téléphérique depuis Rifugio Sapienza",
+        "type": "activite",
+        "destination": "sicile",
+        "mots_cles": [
+            "sicile",
+            "visiter",
+            "l'etna",
+            "depuis",
+            "versant",
+            "excursions",
+            "telepherique",
+            "rifugio",
+            "sapienza"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "Environ 2 h 30 pour la formule téléphérique et 4×4 ; 5 h ou davantage pour une randonnée avec transferts"
         }
     },
     {
