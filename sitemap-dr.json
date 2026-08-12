@@ -702,6 +702,20 @@
         ]
     },
     {
+        "url": "\/prise-electrique-dans-les-pouilles\/",
+        "titre": "Prise électrique dans les Pouilles : adaptateur nécessaire ?",
+        "type": "article",
+        "destination": "pouilles",
+        "description": "Fiches plates vs fiches rondes Prise électrique dans les Pouilles &#8211; Faut-il un adaptateur ? Si vous voyagez léger, avec votre smartphone, une liseuse ou un appareil photo équipés d&rsquo;un chargeur classique à fiche plate (ces fiches à deux broches fines), vous n&rsquo;avez absolument besoin de rien. Ces fiches s&rsquo;insèrent partout, dans toutes les prises de la région, sans la moindre exception. L&rsquo;histoire se corse si vous prévoyez des appareils dotés de grosses fiches rondes avec prise de terre. C&rsquo;est le cas typique du bloc d&rsquo;alimentation de votre ordinateur portable, d&rsquo;un sèche-cheveux, ou encore d&rsquo;un lisseur à cheveux qui requièrent de [&hellip;]",
+        "mots_cles": [
+            "pouilles",
+            "prise",
+            "electrique",
+            "adaptateur",
+            "necessaire"
+        ]
+    },
+    {
         "url": "\/prise-electrique-en-sardaigne\/",
         "titre": "Prise électrique en Sardaigne : faut-il prévoir un adaptateur ?",
         "type": "article",
@@ -950,6 +964,23 @@
         ]
     },
     {
+        "url": "\/securite-a-naples-quartier-a-eviter\/",
+        "titre": "Sécurité à Naples : où dormir tranquille et quelles rues éviter",
+        "type": "article",
+        "destination": "campanie",
+        "description": "La banlieue lointaine Quartiers dangereux à Naples : Scampia, Secondigliano et Barra Scampia et Secondigliano arrivent en tête dès qu&rsquo;on cherche les quartiers à éviter à Naples. Situés à plus de 8 km au nord du centre-ville, ces secteurs cumulent criminalité organisée et chômage élevé. Au sud-est, Barra et San Giovanni a Teduccio présentent un profil comparable. Ces quartiers périphériques construits dans les années 1970 n&rsquo;offrent aucun intérêt culturel, historique ou gastronomique qui justifierait un détour. Les barres d&rsquo;immeubles des Vele de Scampia, vues à l&rsquo;écran dans plusieurs séries, sont pour la plupart démolies ou murées aujourd&rsquo;hui. Il faut prendre une [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "securite",
+            "naples",
+            "dormir",
+            "tranquille",
+            "quelles",
+            "rues",
+            "eviter"
+        ]
+    },
+    {
         "url": "\/sicile-ou-sardaigne\/",
         "titre": "Sicile ou Sardaigne : Quelle île choisir pour vos vacances ?",
         "type": "article",
@@ -976,6 +1007,22 @@
             "reconnaitre",
             "l'artisanat",
             "local"
+        ]
+    },
+    {
+        "url": "\/street-food-a-naples\/",
+        "titre": "Street food à Naples : 9 adresses pour manger dans les ruelles",
+        "type": "article",
+        "destination": "campanie",
+        "description": "Le rituel du scontrino Commander dans la rue à Naples À Naples, manger dans la rue exige d&rsquo;assimiler rapidement les règles de circulation et de paiement. La mécanique est stricte. Vous ne commandez presque jamais directement à la personne qui prépare la nourriture. Cherchez d&rsquo;abord la « cassa », la caisse enregistreuse. Elle est souvent reléguée dans un coin sombre à l&rsquo;intérieur ou gérée par le patron près de la porte. Vous annoncez votre choix, vous payez en espèces, et on vous remet un petit ticket en papier thermique blanc : le « scontrino ». C&rsquo;est avec ce morceau de papier [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "street",
+            "food",
+            "naples",
+            "adresses",
+            "manger",
+            "ruelles"
         ]
     },
     {
@@ -1332,6 +1379,21 @@
             "astuces",
             "rester",
             "frais"
+        ]
+    },
+    {
+        "url": "\/naples-en-3-jours\/",
+        "titre": "Visiter Naples en 3 jours : Dans le coeur de la ville",
+        "type": "article",
+        "destination": "campanie",
+        "description": "Pratique Où dormir pour un itinéraire à Naples en 3 jours ? Pour tout faire à pied et en métro, visez deux zones très distinctes. Le Centro Storico permet de dormir au cœur du bruit et de l&rsquo;action, sans temps de trajet pour commencer la journée. Réservez une chambre au B&amp;B Bellini Suite sur Booking.com : vous êtes à cent mètres de la Via dei Tribunali, avec des chambres insonorisées. Comptez 110 à 140 € la nuit en haute saison (mai, septembre et octobre). Pour fuir la densité urbaine le soir, préférez le quartier de Chiaia. Situé à l&rsquo;ouest de la [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "visiter",
+            "naples",
+            "jours",
+            "coeur",
+            "ville"
         ]
     },
     {
@@ -2425,6 +2487,27 @@
         }
     },
     {
+        "url": "\/activites\/campo-imperatore-gran-sasso\/",
+        "titre": "Campo Imperatore et Gran Sasso : téléphérique, route et excursions",
+        "type": "activite",
+        "destination": "abruzzes",
+        "mots_cles": [
+            "abruzzes",
+            "campo",
+            "imperatore",
+            "gran",
+            "sasso",
+            "telepherique",
+            "route",
+            "excursions"
+        ],
+        "meta": {
+            "type_activite": "site_naturel",
+            "duree": "De quelques heures à une journée selon l’activité choisie",
+            "ville": "laquila"
+        }
+    },
+    {
         "url": "\/activites\/catacombes-san-gennaro-naples\/",
         "titre": "Catacombes de San Gennaro : billets, horaires et visite",
         "type": "activite",
@@ -2544,6 +2627,24 @@
         }
     },
     {
+        "url": "\/activites\/visite-fortezza-civitella-del-tronto\/",
+        "titre": "Fortezza di Civitella : Une forteresse spectaculaire au-dessus des Abruzzes",
+        "type": "activite",
+        "destination": "abruzzes",
+        "mots_cles": [
+            "abruzzes",
+            "fortezza",
+            "civitella",
+            "forteresse",
+            "spectaculaire",
+            "au-dessus"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Aucune durée officielle n’est publiée ; prévoyez une marge confortable."
+        }
+    },
+    {
         "url": "\/activites\/excursion-bateau-golfe-dorosei-tarif\/",
         "titre": "Golfe d’Orosei : Excursions, Zones de départs et Tarifs",
         "type": "activite",
@@ -2560,6 +2661,27 @@
         "meta": {
             "type_activite": "excursion",
             "duree": "7 à 10 h selon le port et la formule"
+        }
+    },
+    {
+        "url": "\/activites\/visite-grottes-stiffe-acces-tarifs\/",
+        "titre": "Grotte di Stiffe : Rivière et cascades souterraines au coeur des abbruzes",
+        "type": "activite",
+        "destination": "abruzzes",
+        "mots_cles": [
+            "abruzzes",
+            "grotte",
+            "stiffe",
+            "riviere",
+            "cascades",
+            "souterraines",
+            "coeur",
+            "abbruzes"
+        ],
+        "meta": {
+            "type_activite": "site_naturel",
+            "duree": "Prévoyez environ 1 heure pour la visite guidée des grottes.",
+            "ville": "laquila"
         }
     },
     {
@@ -2583,6 +2705,25 @@
         }
     },
     {
+        "url": "\/activites\/musee-abruzzes-villa-frigerj-chieti\/",
+        "titre": "La Villa Frigerj : Le grand musée des peuples anciens des Abruzzes",
+        "type": "activite",
+        "destination": "abruzzes",
+        "mots_cles": [
+            "abruzzes",
+            "villa",
+            "frigerj",
+            "grand",
+            "musee",
+            "peuples",
+            "anciens"
+        ],
+        "meta": {
+            "type_activite": "musee",
+            "duree": "1 h 30 à 2 h 30"
+        }
+    },
+    {
         "url": "\/activites\/masques-traditionnels-mamoiada\/",
         "titre": "Masques de Mamoiada : musée, expériences et carnaval",
         "type": "activite",
@@ -2602,7 +2743,7 @@
     },
     {
         "url": "\/activites\/musee-archeologique-naples-billets\/",
-        "titre": "Musée archéologique de Naples : billets, horaires et collections",
+        "titre": "Musée archéologique de Naples en 2026 : billets, horaires et collections",
         "type": "activite",
         "destination": "campanie",
         "mots_cles": [
@@ -2610,6 +2751,7 @@
             "musee",
             "archeologique",
             "naples",
+            "2026",
             "billets",
             "horaires",
             "collections"
@@ -2725,6 +2867,25 @@
         }
     },
     {
+        "url": "\/activites\/costa-dei-trabocchi-velo-kayak\/",
+        "titre": "Parcourir la Costa dei Trabocchi en vélo électrique et en kayak",
+        "type": "activite",
+        "destination": "abruzzes",
+        "mots_cles": [
+            "abruzzes",
+            "parcourir",
+            "costa",
+            "trabocchi",
+            "velo",
+            "electrique",
+            "kayak"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "De 3 h à 10 h selon l’activité choisie"
+        }
+    },
+    {
         "url": "\/activites\/visite-porto-flavia-tarifs-acces\/",
         "titre": "Porto Flavia : Visite et observation depuis la mer",
         "type": "activite",
@@ -2761,6 +2922,44 @@
             "type_activite": "excursion",
             "duree": "2 h maximum pour l’aller-retour court",
             "ville": "naples"
+        }
+    },
+    {
+        "url": "\/activites\/randonnee-faune-parc-abruzzes\/",
+        "titre": "Randonnée guidée et observation de la faune dans le Parc national des Abruzzes",
+        "type": "activite",
+        "destination": "abruzzes",
+        "mots_cles": [
+            "abruzzes",
+            "randonnee",
+            "guidee",
+            "observation",
+            "faune",
+            "parc",
+            "national"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "Variable selon le sentier et l’excursion choisie.",
+            "ville": "laquila"
+        }
+    },
+    {
+        "url": "\/activites\/randonnee-parc-maiella-abruzzes\/",
+        "titre": "Randonner dans le parc national de la Maiella",
+        "type": "activite",
+        "destination": "abruzzes",
+        "mots_cles": [
+            "abruzzes",
+            "randonner",
+            "parc",
+            "national",
+            "maiella"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "Variable selon le sentier ou l’expérience choisie.",
+            "ville": "laquila"
         }
     },
     {
