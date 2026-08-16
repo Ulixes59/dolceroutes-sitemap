@@ -2260,6 +2260,81 @@
         }
     },
     {
+        "url": "\/mois\/latium-et-rome-en-aout\/",
+        "titre": "Latium et Rome en Août",
+        "type": "mois",
+        "destination": "latium",
+        "description": "Météo &#038; Climat Quel temps fait-il à Rome et dans le Latium en août ? Rome en août est, en moyenne, le mois le plus chaud dans la capitale, avec 32,3°C pour les maximales quotidiennes. Partagez la journée entre une visite matinale, une pause au frais et une sortie en soirée. Gardez les monuments sans ombre pour le premier créneau et les quartiers vivants pour la fin de journée. Rue à l&rsquo;ombre dans le centre historique · Rome, Août 2026 © Blackberrijack \/ Wikimedia Commons — CC BY-SA 4.0 La chaleur est généralement forte et sèche. Prenez une gourde, un couvre-chef [&hellip;]",
+        "mots_cles": [
+            "latium",
+            "rome",
+            "aout"
+        ],
+        "meta": {
+            "mois": "Août"
+        }
+    },
+    {
+        "url": "\/mois\/latium-et-rome-en-decembre\/",
+        "titre": "Latium et Rome en décembre",
+        "type": "mois",
+        "destination": "latium",
+        "description": "Rome en décembre &#8211; Météo &#038; Climat Quel temps fait-il à Rome et dans le Latium en décembre ? En décembre, le premier réflexe est de regarder le ciel avant de remplir la journée à Rome. À Rome, les maximales atteignent environ 13 °C, mais l&rsquo;air frais se fait sentir dès le matin et à la tombée du jour. Entre les façades ocre, une éclaircie suffit à rendre la marche agréable. Sous la pluie, les pavés lisses imposent surtout de ralentir. N&#8217;emportez pas une grosse parka pour autant : le bon duo, c&rsquo;est des couches qu&rsquo;on enlève dans un musée, une [&hellip;]",
+        "mots_cles": [
+            "latium",
+            "rome",
+            "decembre"
+        ],
+        "meta": {
+            "mois": "Décembre"
+        }
+    },
+    {
+        "url": "\/mois\/latium-et-rome-en-novembre\/",
+        "titre": "Latium et Rome en Novembre",
+        "type": "mois",
+        "destination": "latium",
+        "description": "Météo &#038; Climat Quel temps fait-il dans le Latium et à Rome en novembre ? Novembre compte parmi les mois les plus arrosés à Rome. Prévoyez un programme facile à adapter entre deux averses. Plutôt que de fixer une grande promenade à l&rsquo;avance, gardez deux idées proches l&rsquo;une de l&rsquo;autre et choisissez au dernier moment. Une matinée de musée suivie d&rsquo;un déjeuner long fonctionne mieux qu&rsquo;une course de monuments en monuments. Choisissez par exemple une visite réservée et un second lieu couvert dans le même secteur. Si le premier créneau prend du retard ou si la pluie s&rsquo;installe, vous ne passerez [&hellip;]",
+        "mots_cles": [
+            "latium",
+            "rome",
+            "novembre"
+        ],
+        "meta": {
+            "mois": "Novembre"
+        }
+    },
+    {
+        "url": "\/mois\/latium-et-rome-en-octobre\/",
+        "titre": "Latium et Rome en Octobre",
+        "type": "mois",
+        "destination": "latium",
+        "description": "Météo &#038; Climat Quel temps fait-il en Octobre ? En octobre, il est plus facile de visiter Rome à un rythme tranquille. La chaleur n&rsquo;impose plus de tout voir avant midi. Les fins d&rsquo;après-midi ont cette lumière dorée qui adoucit les façades et les ruelles. Gardez un programme facile à modifier plutôt qu&rsquo;une longue journée dehors sans solution de repli. Pont Saint-Ange à la tombée du jour · Rome, Octobre 2026 © Jebulon \/ Wikimedia Commons — CC0 Les températures maximales atteignent environ 22°C en moyenne à Rome en octobre. Cette valeur donne un ordre d&rsquo;idée : vérifiez la météo avant [&hellip;]",
+        "mots_cles": [
+            "latium",
+            "rome",
+            "octobre"
+        ],
+        "meta": {
+            "mois": "Octobre"
+        }
+    },
+    {
+        "url": "\/mois\/latium-et-rome-en-septembre\/",
+        "titre": "Latium et Rome en Septembre",
+        "type": "mois",
+        "destination": "latium",
+        "description": "Météo &#038; Climat Quel temps fait-il en septembre à Rome et dans le Latium ? Le matin, une chemise légère suffit souvent pour sortir avant que les rues ne se remplissent. La température maximale moyenne atteint environ 27°C à Rome en septembre. Une averse, une soirée plus fraîche ou une visite qui s&rsquo;éternise dans les ruelles peuvent surprendre, surtout après le coucher du soleil. Prévoyez des chaussures déjà faites à la marche, une surchemise fine et une protection de pluie compacte. © Dietmar Rabich \/ Wikimedia Commons — CC BY-SA 4.0 Sur la côte, le contraste est net. Sur le littoral [&hellip;]",
+        "mots_cles": [
+            "latium",
+            "rome",
+            "septembre"
+        ],
+        "meta": {
+            "mois": "Septembre"
+        }
+    },
+    {
         "url": "\/mois\/les-pouilles-en-aout\/",
         "titre": "Les Pouilles en Août",
         "type": "mois",
@@ -2727,7 +2802,7 @@
     },
     {
         "url": "\/activites\/chateau-saint-ange-rome-billets\/",
-        "titre": "Château Saint-Ange (Sant'Angelo) à Rome en 2026 : billets et visite",
+        "titre": "Château Saint-Ange (Sant'Angelo) à Rome : Billets et visite",
         "type": "activite",
         "destination": "latium",
         "mots_cles": [
@@ -2736,7 +2811,6 @@
             "saint-ange",
             "(sant'angelo)",
             "rome",
-            "2026",
             "billets",
             "visite"
         ],
@@ -2981,7 +3055,7 @@
     },
     {
         "url": "\/activites\/vatican-chapelle-sixtine-billets\/",
-        "titre": "Musées du Vatican et chapelle Sixtine en 2026 : billets et conseils",
+        "titre": "Musées du Vatican et chapelle Sixtine : Billets et conseils",
         "type": "activite",
         "destination": "latium",
         "mots_cles": [
@@ -2990,7 +3064,6 @@
             "vatican",
             "chapelle",
             "sixtine",
-            "2026",
             "billets",
             "conseils"
         ],
@@ -3023,14 +3096,13 @@
     },
     {
         "url": "\/activites\/pantheon-rome-billets-tarifs\/",
-        "titre": "Panthéon de Rome en 2026 : billets et conseils de visite",
+        "titre": "Panthéon de Rome : Billets et conseils de visite",
         "type": "activite",
         "destination": "latium",
         "mots_cles": [
             "latium",
             "pantheon",
             "rome",
-            "2026",
             "billets",
             "conseils",
             "visite"
@@ -3476,7 +3548,7 @@
     },
     {
         "url": "\/activites\/colisee-forum-romain-palatin-billets\/",
-        "titre": "Visiter le Colisée, le Forum romain et le Palatin en 2026 : billets et conseils",
+        "titre": "Visiter le Colisée, le Forum romain et le Palatin : Billets et conseils",
         "type": "activite",
         "destination": "latium",
         "mots_cles": [
@@ -3486,7 +3558,6 @@
             "forum",
             "romain",
             "palatin",
-            "2026",
             "billets",
             "conseils"
         ],
