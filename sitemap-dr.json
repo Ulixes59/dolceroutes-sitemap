@@ -260,7 +260,7 @@
         "titre": "Éruption Etna : Vols, Sécurité et Comment l'admirer",
         "type": "article",
         "destination": "sicile",
-        "description": "Éruption Etna &#8211; Mise à jour en direct Éruption de l&rsquo;Etna : la situation au 14 août 2026 Dernière mise à jour : 14 août 2026 à 10h45. L&rsquo;Etna est en éruption depuis le 8 août. Des émissions de cendres affectent régulièrement le versant oriental et peuvent perturber les déplacements autour de Catane. 🌋 Etna aujourd&rsquo;hui : l&rsquo;essentiel Éruption : activité effusive toujours en cours Lave : deux bouches restent actives vers 2 750 m et 1 900 m d&rsquo;altitude Accès : restrictions en altitude, à vérifier avant toute montée Vols : trafic à Catane susceptible d&rsquo;être perturbé par les cendres [&hellip;]",
+        "description": "Éruption Etna &#8211; Mise à jour en direct Éruption de l&rsquo;Etna : la situation au 16 août 2026 Dernière mise à jour : 16 août 2026. L&rsquo;Etna reste en phase éruptive après plusieurs jours d&rsquo;activité soutenue depuis le 8 août. Des émissions de cendres ont fortement perturbé le versant oriental et le trafic aérien à Catane ces derniers jours. L&rsquo;aéroport a repris ses opérations le 15 août, mais la situation volcanique peut encore évoluer rapidement. 🌋 Etna aujourd&rsquo;hui : l&rsquo;essentiel Éruption : activité volcanique toujours en cours Lave : deux bouches situées vers 2 750 m et 1 900 m étaient [&hellip;]",
         "mots_cles": [
             "sicile",
             "eruption",
@@ -2904,6 +2904,24 @@
         }
     },
     {
+        "url": "\/activites\/costa-dei-trabocchi-velo-kayak\/",
+        "titre": "La Costa dei Trabocchi en vélo électrique et kayak",
+        "type": "activite",
+        "destination": "abruzzes",
+        "mots_cles": [
+            "abruzzes",
+            "costa",
+            "trabocchi",
+            "velo",
+            "electrique",
+            "kayak"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "De 3 h à 10 h selon l’activité choisie"
+        }
+    },
+    {
         "url": "\/activites\/musee-abruzzes-villa-frigerj-chieti\/",
         "titre": "La Villa Frigerj : Le grand musée des peuples anciens des Abruzzes",
         "type": "activite",
@@ -3104,25 +3122,6 @@
         "meta": {
             "type_activite": "monument",
             "duree": "Prévoyez une demi-journée pour relier plusieurs secteurs sans courir ; la visite guidée retenue dure 2 heures"
-        }
-    },
-    {
-        "url": "\/activites\/costa-dei-trabocchi-velo-kayak\/",
-        "titre": "Parcourir la Costa dei Trabocchi en vélo électrique et en kayak",
-        "type": "activite",
-        "destination": "abruzzes",
-        "mots_cles": [
-            "abruzzes",
-            "parcourir",
-            "costa",
-            "trabocchi",
-            "velo",
-            "electrique",
-            "kayak"
-        ],
-        "meta": {
-            "type_activite": "excursion",
-            "duree": "De 3 h à 10 h selon l’activité choisie"
         }
     },
     {
