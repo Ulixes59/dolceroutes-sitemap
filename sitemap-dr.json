@@ -90,6 +90,23 @@
         ]
     },
     {
+        "url": "\/champs-phlegreens-aujourdhui\/",
+        "titre": "Champs Phlégréens aujourd’hui : séismes, sécurité et situation à Naples",
+        "type": "article",
+        "destination": "campanie",
+        "description": "Les Champs Phlégréens, à l&rsquo;ouest de Naples, connaissent une phase active de bradyséisme, accompagnée d&rsquo;une activité sismique parfois nettement ressentie dans la zone flegrea. Le 31 juillet 2026, un séisme de magnitude 4,7 a provoqué des dégâts. Le bilan actualisé publié le lendemain par la Protection civile fait état de 26 blessés. Si vous préparez un séjour à Naples, cette activité peut naturellement soulever des questions. Cette page suit les conséquences concrètes pour les voyageurs : situation à Naples et Pozzuoli, sécurité, zones concernées et informations officielles. État des lieux Champs Phlégréens aujourd&rsquo;hui : quelle est la situation ? Dernière mise [&hellip;]",
+        "mots_cles": [
+            "campanie",
+            "champs",
+            "phlegreens",
+            "aujourd’hui",
+            "seismes",
+            "securite",
+            "situation",
+            "naples"
+        ]
+    },
+    {
         "url": "\/transfert-aeroport-brindisi-lecce\/",
         "titre": "Comment aller de l'aéroport de Brindisi à Lecce ?",
         "type": "article",
@@ -260,7 +277,7 @@
         "titre": "Éruption Etna : Vols, Sécurité et Comment l'admirer",
         "type": "article",
         "destination": "sicile",
-        "description": "Éruption Etna &#8211; Mise à jour en direct Éruption de l&rsquo;Etna : la situation au 16 août 2026 Dernière mise à jour : 16 août 2026. L&rsquo;Etna reste en phase éruptive après plusieurs jours d&rsquo;activité soutenue depuis le 8 août. Des émissions de cendres ont fortement perturbé le versant oriental et le trafic aérien à Catane ces derniers jours. L&rsquo;aéroport a repris ses opérations le 15 août, mais la situation volcanique peut encore évoluer rapidement. 🌋 Etna aujourd&rsquo;hui : l&rsquo;essentiel Éruption : activité volcanique toujours en cours Lave : deux bouches situées vers 2 750 m et 1 900 m étaient [&hellip;]",
+        "description": "Éruption Etna · Mise à jour en direct Éruption de l&rsquo;Etna : la situation au 19 août 2026 Dernière mise à jour : 19 août 2026 à 9h30. L&rsquo;Etna reste sous surveillance après plusieurs jours d&rsquo;activité éruptive et d&rsquo;émissions de cendres. Le trafic aérien à Catane a repris le 15 août après l&rsquo;abaissement de l&rsquo;alerte volcanique pour l&rsquo;aviation, mais l&rsquo;activité du volcan peut encore faire évoluer rapidement les conditions d&rsquo;accès et les vols. Aucun nouveau communiqué volcanique INGV n’a été publié depuis le bulletin du 14 août. 📌 Etna aujourd&rsquo;hui · situation en un coup d&rsquo;œil 🌋 Activité volcanique 🟠 À [&hellip;]",
         "mots_cles": [
             "sicile",
             "eruption",
@@ -511,6 +528,21 @@
         "mots_cles": [
             "pouilles",
             "incontournables"
+        ]
+    },
+    {
+        "url": "\/plages-des-pouilles-accessibles-en-train\/",
+        "titre": "Les plus belles plages des Pouilles accessibles en train",
+        "type": "article",
+        "destination": "pouilles",
+        "description": "Logistique Plages accessibles en train dans les Pouilles : le tableau comparatif Pour éliminer les mauvaises surprises, voici les temps de marche réels entre la sortie de la gare et la première baignade. Ces trajets se font sur du goudron, des trottoirs aménagés ou des rues piétonnes, sans jamais longer une route nationale dangereuse. Plage Distance à pied Depuis la gare Type de plage Polignano a MareLama Monachile 800 m · 10 min Gare de Polignano Galets libres MonopoliCala Porta Vecchia 1,5 km · 15-20 min Gare de Monopoli Sable, accès libre BariPane e Pomodoro 300 m · 4 min Halte [&hellip;]",
+        "mots_cles": [
+            "pouilles",
+            "plus",
+            "belles",
+            "plages",
+            "accessibles",
+            "train"
         ]
     },
     {
@@ -1696,6 +1728,17 @@
         ]
     },
     {
+        "url": "\/villes\/florence\/",
+        "titre": "Florence",
+        "type": "ville",
+        "destination": "toscane",
+        "description": "À voir absolument Que voir à Florence : les 4 monuments de la Renaissance Florence concentre l&rsquo;essentiel de son patrimoine Renaissance sur moins d&rsquo;un kilomètre carré, entre le Duomo et l&rsquo;Arno. Quatre sites structurent une première visite. Chacun demande une stratégie d&rsquo;horaire précise pour éviter la queue, plutôt qu&rsquo;un ordre de préférence. 1 © Gzen92 \/ Wikimedia Commons — CC BY-SA 4.0 Le Duomo (Cathédrale Santa Maria del Fiore) La façade en marbre blanc, vert et rose domine la via de&rsquo; Cerretani. L&rsquo;intérieur reste sobre : l&rsquo;essentiel se joue dans l&rsquo;ascension des 463 marches du dôme de Brunelleschi, sur l&rsquo;étroite coursive [&hellip;]",
+        "mots_cles": [
+            "toscane",
+            "florence"
+        ]
+    },
+    {
         "url": "\/villes\/frascati\/",
         "titre": "Frascati",
         "type": "ville",
@@ -1748,6 +1791,17 @@
         "mots_cles": [
             "pouilles",
             "lecce"
+        ]
+    },
+    {
+        "url": "\/villes\/lucques\/",
+        "titre": "Lucques",
+        "type": "ville",
+        "destination": "toscane",
+        "description": "À voir absolument Que voir à Lucques : les incontournables Le centre historique de Lucques est encerclé par des remparts de 4,2 kilomètres, entièrement piétons et cyclables. Quatre sites concentrent l&rsquo;essentiel de l&rsquo;architecture héritée de l&rsquo;âge d&rsquo;or de la soie, entre le XIIe et le XIVe siècle. 1 © Zairon \/ Wikimedia Commons — CC BY 4.0 Les remparts Renaissance Construits entre 1504 et 1645, ils mesurent 4,2 kilomètres de long et 12 mètres de haut. Marie-Louise d&rsquo;Espagne les a transformés en promenade publique en 1815. Onze bastions en pointe s&rsquo;avancent vers l&rsquo;extérieur, bordés de platanes, de marronniers et de chênes [&hellip;]",
+        "mots_cles": [
+            "toscane",
+            "lucques"
         ]
     },
     {
@@ -1861,6 +1915,17 @@
         ]
     },
     {
+        "url": "\/villes\/pise\/",
+        "titre": "Pise",
+        "type": "ville",
+        "destination": "toscane",
+        "description": "À voir absolument Piazza dei Miracoli : quatre monuments, un seul billet La Piazza dei Miracoli rassemble les quatre monuments majeurs de Pise sur une même pelouse. Entre mai et septembre, les portes ouvrent de 9h à 20h. Hors saison, les horaires se réduisent nettement, avec des fermetures fréquentes dès 17h ou 18h. Le Pass Complet à 10 € (billetterie officielle sur opapisa.it) inclut le Baptistère, le Camposanto, le Museo dell&rsquo;Opera del Duomo et le Museo delle Sinopie. Il évite de payer chaque entrée séparément. 1 © Chabe01 \/ Wikimedia Commons — CC BY-SA 4.0 La Tour de Pise Le campanile [&hellip;]",
+        "mots_cles": [
+            "toscane",
+            "pise"
+        ]
+    },
+    {
         "url": "\/villes\/pizzo\/",
         "titre": "Pizzo",
         "type": "ville",
@@ -1918,6 +1983,17 @@
         ]
     },
     {
+        "url": "\/villes\/san-gimignano\/",
+        "titre": "San Gimignano",
+        "type": "ville",
+        "destination": "toscane",
+        "description": "À voir absolument Que voir à San Gimignano : les 4 sites essentiels Au Moyen Âge, San Gimignano comptait soixante-douze tours. Les familles nobles du XIIIe et du XIVe siècle affichaient leur puissance financière et militaire en construisant toujours plus haut que le voisin. Il en reste quatorze aujourd&rsquo;hui, visibles à des kilomètres à la ronde depuis la voie rapide qui relie Florence à Sienne. Positionné sur la Via Francigena, la route de pèlerinage qui reliait l&rsquo;Europe du Nord à Rome, le village s&rsquo;est enrichi grâce au commerce du safran et du vin. La peste de 1348 a décimé sa population [&hellip;]",
+        "mots_cles": [
+            "toscane",
+            "gimignano"
+        ]
+    },
+    {
         "url": "\/villes\/scilla\/",
         "titre": "Scilla",
         "type": "ville",
@@ -1926,6 +2002,17 @@
         "mots_cles": [
             "calabre",
             "scilla"
+        ]
+    },
+    {
+        "url": "\/villes\/sienne\/",
+        "titre": "Sienne",
+        "type": "ville",
+        "destination": "toscane",
+        "description": "À voir absolument Que voir à Sienne : 4 sites essentiels Le centre historique tient sur un triangle de pierre posé sur trois collines. Quatre sites concentrent l&rsquo;essentiel de la visite, tous accessibles à pied en moins de 15 minutes depuis la Piazza del Campo. 1 © Zairon \/ Wikimedia Commons — CC BY 4.0 Piazza del Campo La place forme une conque inclinée vers le Palazzo Pubblico. Le sol est divisé en neuf segments de brique rouge, en référence au gouvernement des Neuf qui a dirigé la République de Sienne de 1287 à 1355. La fontaine Fonte Gaia occupe la [&hellip;]",
+        "mots_cles": [
+            "toscane",
+            "sienne"
         ]
     },
     {
@@ -2646,6 +2733,26 @@
         }
     },
     {
+        "url": "\/itineraires\/rome-en-3-jours\/",
+        "titre": "Rome en 3 jours : l’itinéraire complet pour une première visite",
+        "type": "itineraire",
+        "destination": "latium",
+        "description": "Rome en 3 jours &#8211; L&rsquo;itinéraire en bref, jour par jour 1 Rome antique · MontiColisée, Forum romain et soirée à Monti 2 Vatican · TrastevereMusées du Vatican le matin, Trastevere le soir 3 Centre baroqueTrevi, Panthéon, Piazza Navona et Piazza di Spagna 1 Jour 1 · Rome antique · Monti Jour 1 · Rome antique · Monti — Colisée, Forum et dîner à Monti Rome antique le matin, ruelles de Monti le soir © Jean-Pol GRANDMONT \/ Wikimedia Commons — CC BY 4.0 Commencez près du Colisée avant que la chaleur ne s&rsquo;accumule sur les pierres. Pour comprendre les différentes [&hellip;]",
+        "mots_cles": [
+            "latium",
+            "rome",
+            "jours",
+            "l’itineraire",
+            "complet",
+            "premiere",
+            "visite"
+        ],
+        "meta": {
+            "duree": "3 jours \/ 2 nuits",
+            "type": "Week-end"
+        }
+    },
+    {
         "url": "\/itineraires\/itineraire-ombrie-en-7-jours\/",
         "titre": "Visiter l'Ombrie en 7 jours : Itinéraire, étapes et budget",
         "type": "itineraire",
@@ -2742,6 +2849,25 @@
         }
     },
     {
+        "url": "\/activites\/catacombes-saintcalixte-rome-billets\/",
+        "titre": "Catacombes de Saint-Calixte à Rome : Billets et conseils",
+        "type": "activite",
+        "destination": "latium",
+        "mots_cles": [
+            "latium",
+            "catacombes",
+            "saint-calixte",
+            "rome",
+            "billets",
+            "conseils"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "40 min, plus l’arrivée en avance",
+            "ville": "rome"
+        }
+    },
+    {
         "url": "\/activites\/catacombes-san-gennaro-naples\/",
         "titre": "Catacombes de San Gennaro : billets, horaires et visite",
         "type": "activite",
@@ -2818,6 +2944,46 @@
             "type_activite": "monument",
             "duree": "75 min avec la visite guidée ; durée libre avec le billet officiel",
             "ville": "rome"
+        }
+    },
+    {
+        "url": "\/activites\/domus-aurea-rome-billets-visite\/",
+        "titre": "Domus Aurea à Rome : Billets et visite",
+        "type": "activite",
+        "destination": "latium",
+        "mots_cles": [
+            "latium",
+            "domus",
+            "aurea",
+            "rome",
+            "billets",
+            "visite"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "1 h 15 à 1 h 30",
+            "ville": "rome"
+        }
+    },
+    {
+        "url": "\/activites\/champs-phlegreens-excursion-visite\/",
+        "titre": "Excursion aux Champs Phlégréens en 2026 : Quelle visite choisir ?",
+        "type": "activite",
+        "destination": "campanie",
+        "mots_cles": [
+            "campanie",
+            "excursion",
+            "champs",
+            "phlegreens",
+            "2026",
+            "quelle",
+            "visite",
+            "choisir"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "4 h à une journée",
+            "ville": "naples"
         }
     },
     {
@@ -3071,6 +3237,24 @@
             "type_activite": "musee",
             "duree": "3 h 30 à 4 h 30",
             "ville": "rome"
+        }
+    },
+    {
+        "url": "\/activites\/necropole-tarquinia-musee-billets\/",
+        "titre": "Nécropole de Tarquinia et musée : Billets et conseils",
+        "type": "activite",
+        "destination": "latium",
+        "mots_cles": [
+            "latium",
+            "necropole",
+            "tarquinia",
+            "musee",
+            "billets",
+            "conseils"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "4 à 5 h"
         }
     },
     {
@@ -3385,6 +3569,25 @@
         "meta": {
             "type_activite": "monument",
             "duree": "Gardez une large demi-journée ; aucune durée officielle n’est publiée"
+        }
+    },
+    {
+        "url": "\/activites\/villa-adriana-tivoli-billets\/",
+        "titre": "Villa Adriana à Tivoli : Billets et conseils",
+        "type": "activite",
+        "destination": "latium",
+        "mots_cles": [
+            "latium",
+            "villa",
+            "adriana",
+            "tivoli",
+            "billets",
+            "conseils"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "2 h 30 à 4 h",
+            "ville": "tivoli"
         }
     },
     {
