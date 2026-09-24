@@ -3157,6 +3157,25 @@
         }
     },
     {
+        "url": "\/activites\/cathedrale-de-sienne-billets-pass\/",
+        "titre": "Cathédrale de Sienne : billets, OPA SI Pass et visite",
+        "type": "activite",
+        "destination": "toscane",
+        "mots_cles": [
+            "toscane",
+            "cathedrale",
+            "sienne",
+            "billets",
+            "pass",
+            "visite"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Pass valable 3 jours consécutifs ; environ 2 h pour le parcours",
+            "ville": "sienne"
+        }
+    },
+    {
         "url": "\/activites\/chapelle-sansevero-christ-billets\/",
         "titre": "Chapelle Sansevero : billets et visite du Christ voilé",
         "type": "activite",
@@ -3214,6 +3233,25 @@
             "type_activite": "monument",
             "duree": "75 min avec la visite guidée ; durée libre avec le billet officiel",
             "ville": "rome"
+        }
+    },
+    {
+        "url": "\/activites\/excursion-chianti-florence-vin\/",
+        "titre": "Chianti depuis Florence : excursion vin 2026",
+        "type": "activite",
+        "destination": "toscane",
+        "mots_cles": [
+            "toscane",
+            "chianti",
+            "depuis",
+            "florence",
+            "excursion",
+            "2026"
+        ],
+        "meta": {
+            "type_activite": "excursion",
+            "duree": "5 h 30, transport aller-retour inclus",
+            "ville": "florence"
         }
     },
     {
@@ -3900,6 +3938,46 @@
             "type_activite": "monument",
             "duree": "1 h 30 à 2 h",
             "ville": "rome"
+        }
+    },
+    {
+        "url": "\/activites\/torre-grossa-san-gimignano-billets\/",
+        "titre": "Torre Grossa à San Gimignano : billets et horaires 2026",
+        "type": "activite",
+        "destination": "toscane",
+        "mots_cles": [
+            "toscane",
+            "torre",
+            "grossa",
+            "gimignano",
+            "billets",
+            "horaires",
+            "2026"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Environ 1 h 30 ; billet valable 2 jours consécutifs",
+            "ville": "san-gimignano"
+        }
+    },
+    {
+        "url": "\/activites\/torre-guinigi-lucques-billets\/",
+        "titre": "Torre Guinigi à Lucques : billets et horaires 2026",
+        "type": "activite",
+        "destination": "toscane",
+        "mots_cles": [
+            "toscane",
+            "torre",
+            "guinigi",
+            "lucques",
+            "billets",
+            "horaires",
+            "2026"
+        ],
+        "meta": {
+            "type_activite": "monument",
+            "duree": "Environ 45 min à 1 h ; 230 marches",
+            "ville": "lucques"
         }
     },
     {
